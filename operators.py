@@ -87,13 +87,14 @@ def summerize(text):
     return google_bigbird_pegasus_large_bigpatent(text)
 
 # %%
-def readoutload(text):
+def readoutload(text, write_address="nowgeneratedspeechforstudy.wav", read=True):
     # wav, rate = microsoft_speecht5_tts(text)
     wav, rate = facebook_fastspeech2_en_ljspeech(text)
     
-    sf.write("nowgeneratedspeechforstudy.wav", wav, samplerate=rate)
-    show_notification("summary", text)
-    playsound("nowgeneratedspeechforstudy.wav")
+    sf.write(write_address, wav, samplerate=rate)
+    if read==True:
+        show_notification("summary", text)
+        playsound(write_address)
 
 # %%
 def convert_numbers_to_text(text):

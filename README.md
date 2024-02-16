@@ -19,3 +19,8 @@ Now, sometimes I need a summery of a long text or maybe a short text where I'm h
 - Developed another system to convert the PDF to HTML which is doing an almost good job but not perfect.
 
 ```The important step after having the generative steps ready, is the interface to help focus better and easier on the article```
+
+- In the attempt to develop a new interface by the organized text that was extracted from the PDF, for now, shall remove the small texts where they wouldn't be much of a help and maybe include it later to the related text by hovering maybe.
+
+- An issue is the the vectors in the PDF, I am capable of extracting texts and images but some are apparently neither and can't extract them like the others.
+  - Even when you try to setup your own interface, some images are not just image, there texts on the image and handling them all together is a bit of headache

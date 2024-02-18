@@ -33,7 +33,7 @@
         "id": 2
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -43,7 +43,7 @@
         "id": 3
     },
     {
-        "text": " VOL 421",
+        "text": "VOL 421",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -53,7 +53,7 @@
         "id": 4
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -63,7 +63,7 @@
         "id": 5
     },
     {
-        "text": " 23 JANUARY 2003",
+        "text": "23 JANUARY 2003",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -73,7 +73,7 @@
         "id": 6
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -83,7 +83,7 @@
         "id": 7
     },
     {
-        "text": " www.nature.com/nature",
+        "text": "www.nature.com/nature",
         "style": {
             "font": "Minion-Regular",
             "size": 6.650000095367432,
@@ -93,7 +93,7 @@
         "id": 8
     },
     {
-        "text": "anti-cancer drugs. Potent cytokines and monoclonal antibodiesdirected against cell surface-associated structures are already promi-nent within a radically revised pharmaceutical armamentarium inareas including cancer, autoimmunity, allergy and transplantation.DNA research is therefore crucial to a new generation of immunolo-gists, from those striving towards the development of novel vaccinesto those seeking to understand and control autoimmune diseases,allergy and transplant tolerance.",
+        "text": "anti-cancer drugs. Potent cytokines and monoclonal antibodies directed against cell surface-associated structures are already promi- nent within a radically revised pharmaceutical armamentarium in areas including cancer, autoimmunity, allergy and transplantation. DNA research is therefore crucial to a new generation of immunolo- gists, from those striving towards the development of novel vaccines to those seeking to understand and control autoimmune diseases, allergy and transplant tolerance.",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -101,20 +101,18 @@
         },
         "flag": "text",
         "id": 9,
-        "summery": "The present invention relates to immunolo-gists in areas including cancer, autoimmunity, allergy and transplantation.",
+        "summery": "DNA research is therefore crucial to a new generation of immunolo-s gist, from those striving towards the development of novel vaccines to those seeking to understand and control autoimmune diseases, allergy and transplant tolerance.",
         "parts": [
             "anti-cancer drugs.",
-            " Potent cytokines and monoclonal antibodiesdirected against cell surface-associated structures are already promi-nent within a radically revised pharmaceutical armamentarium inareas including cancer, autoimmunity, allergy and transplantation.",
-            "DNA research is therefore crucial to a new generation of immunolo-gists, from those striving towards the development of novel vaccinesto those seeking to understand and control autoimmune diseases,allergy and transplant tolerance.",
-            "."
+            " Potent cytokines and monoclonal antibodies directed against cell surface-associated structures are already promi- nent within a radically revised pharmaceutical armamentarium in areas including cancer, autoimmunity, allergy and transplantation.",
+            " DNA research is therefore crucial to a new generation of immunolo- gists, from those striving towards the development of novel vaccines to those seeking to understand and control autoimmune diseases, allergy and transplant tolerance."
         ],
         "summery_parts": [
-            "The present invention relates to immunolo-gists in areas including cancer, autoimmunity, allergy and transplantation.",
-            "."
+            "DNA research is therefore crucial to a new generation of immunolo-s gist, from those striving towards the development of novel vaccines to those seeking to understand and control autoimmune diseases, allergy and transplant tolerance."
         ]
     },
     {
-        "text": "doi:10.1038/nature014091. Ehrlich, P. The Croonian Lecture. On immunity with special reference to cell life. Proc. R. Soc. Lond. B66, 424\u2013448 (1900).2. Landsteiner, K. The Specificity of Serological Reactions (Harvard Univ. Press, Boston, 1945).3. Breinl, F. & Haurowitz, F. Untersuchungen des Pr\u00e4zipitates aus H\u00e4moglobin und anti-H\u00e4moglobin-Serum und Bemerkungen \u00fcber die Natur der Antik\u00f6rper. Hoppe-Seyler\u2019s Z. Physiol. Chem. 192, 45\u201357(1930).4. Jerne, N. K. The natural selection theory of antibody formation. Proc. Natl Acad. Sci. USA 41,849\u2013857 (1955).5. Talmage, D. W. Allergy and immunology. Annu. Rev. Med. 8, 239\u2013256 (1957).6. Burnet, F. M. A modification of Jerne\u2019s theory of antibody production using the concept of clonalselection. Aust. J. Sci. 20, 67\u201369 (1957).7. Nossal, G. J. V. & Lederberg, J. Antibody production by single cells. Nature 181, 1419\u20131420 (1958).8. Edelman, G. M. & Gall, W. E. The antibody problem. Annu. Rev. Biochem. 38, 415\u2013466 (1969).9. Hilschmann, N. & Craig, L. C. Amino acid sequence studies with Bence-Jones proteins. Proc. NatlAcad. Sci. USA 53, 1403\u20131409 (1965).10.Dreyer, W. J. & Bennett, J. C. The molecular basis of antibody formation: a paradox. Proc. Natl Acad.Sci. USA 54, 864\u2013869 (1965).11.Wu, T. T. & Kabat, E. A. An analysis of the sequences of the variable regions of Bence Jones proteinsand myeloma light chains and their implications for antibody complementarity. J. Exp. Med. 132,211\u2013250 (1970).12.Hozumi, N. & Tonegawa, S. Evidence for somatic rearrangement of immunoglobulin genes codingfor variable and constant regions. Proc. Natl Acad. Sci. USA 73, 3628\u20133632 (1976).13.Bernard, O., Hozumi, N. & Tonegawa, S. Sequences of mouse immunoglobulin light chain genesbefore and after somatic changes. Cell 15, 1133\u20131144 (1978).14.Kocks, C. & Rajewsky, K. Stable expression and somatic hypermutation of antibody V regions in B-cell developmental pathways. Annu. Rev. Immunol. 7, 537\u2013559 (1989).15.Hedrick, S. M., Cohen, D. I., Nielsen, E. A. & Davis, M. M. Isolation of cDNA clones encoding T cell-specific membrane-associated proteins. Nature 308, 149\u2013153 (1984).16.Yanagi, Y. et al. A human T cell-specific cDNA clone encodes a protein having extensive homology toimmunoglobulin chains. Nature 308, 145\u2013149 (1984).17.Zinkernagel, R. M. & Doherty, P. C. Restriction of in vitro T cell-mediated cytotoxicity in lymphocyticchoriomeningitis within a syngeneic or semiallogeneic system. Nature 248, 701\u2013702 (1974).18.Bernard, O., Cory, S., Gerondakis, S., Webb, E. & Adams, J. M. Sequence of the murine and humancellular myc oncogenes and two modes of myc transcription resulting from chromosometranslocation in B lymphoid tumours. EMBO J. 2, 2375\u20132383 (1983).19.Vaux, D. L., Cory, S. & Adams, J. M. Bcl-2 gene promotes haemopoietic cell survival and cooperateswith c-myc to immortalize pre-B cells. Nature 335, 440\u2013442 (1988).20.Donnelly, J. J., Ulmer, J. B., Shiver, J. W. & Liu, M. A. DNA vaccines. Annu. Rev. Immunol. 15, 617\u2013648(1997).21.Krieg, A. M. CpG motifs in bacterial DNA and their immune effects. Annu. Rev. Immunol. 20,709\u2013760 (2002).22.Burnet, F. M. & Fenner, F. J. The Production of Antibodies (Macmillan, Melbourne, 1949).23.Billingham, R. F., Brent, L. & Medawar, P. B. Actively acquired tolerance of foreign cells. Nature 172,603\u2013606 (1953).24.Nossal, G. J. V. & Pike, B. L. Clonal anergy: persistence in tolerant mice of antigen-binding Blymphocytes incapable of responding to antigen or mitogen. Proc. Natl Acad. Sci. USA 77, 1602\u20131606(1980).",
+        "text": "doi:10.1038/nature01409 1. Ehrlich, P. The Croonian Lecture. On immunity with special reference to cell life. Proc. R. Soc. Lond. B 66, 424\u2013448 (1900). 2. Landsteiner, K. The Specificity of Serological Reactions (Harvard Univ. Press, Boston, 1945). 3. Breinl, F. & Haurowitz, F. Untersuchungen des Pr\u00e4zipitates aus H\u00e4moglobin und anti-H\u00e4moglobin- Serum und Bemerkungen \u00fcber die Natur der Antik\u00f6rper. Hoppe-Seyler\u2019s Z. Physiol. Chem. 192, 45\u201357 (1930). 4. Jerne, N. K. The natural selection theory of antibody formation. Proc. Natl Acad. Sci. USA 41, 849\u2013857 (1955). 5. Talmage, D. W. Allergy and immunology. Annu. Rev. Med. 8, 239\u2013256 (1957). 6. Burnet, F. M. A modification of Jerne\u2019s theory of antibody production using the concept of clonal selection. Aust. J. Sci. 20, 67\u201369 (1957). 7. Nossal, G. J. V. & Lederberg, J. Antibody production by single cells. Nature 181, 1419\u20131420 (1958). 8. Edelman, G. M. & Gall, W. E. The antibody problem. Annu. Rev. Biochem. 38, 415\u2013466 (1969). 9. Hilschmann, N. & Craig, L. C. Amino acid sequence studies with Bence-Jones proteins. Proc. Natl Acad. Sci. USA 53, 1403\u20131409 (1965). 10.Dreyer, W. J. & Bennett, J. C. The molecular basis of antibody formation: a paradox. Proc. Natl Acad. Sci. USA 54, 864\u2013869 (1965). 11.Wu, T. T. & Kabat, E. A. An analysis of the sequences of the variable regions of Bence Jones proteins and myeloma light chains and their implications for antibody complementarity. J. Exp. Med. 132, 211\u2013250 (1970). 12.Hozumi, N. & Tonegawa, S. Evidence for somatic rearrangement of immunoglobulin genes coding for variable and constant regions. Proc. Natl Acad. Sci. USA 73, 3628\u20133632 (1976). 13.Bernard, O., Hozumi, N. & Tonegawa, S. Sequences of mouse immunoglobulin light chain genes before and after somatic changes. Cell 15, 1133\u20131144 (1978). 14.Kocks, C. & Rajewsky, K. Stable expression and somatic hypermutation of antibody V regions in B- cell developmental pathways. Annu. Rev. Immunol. 7, 537\u2013559 (1989). 15.Hedrick, S. M., Cohen, D. I., Nielsen, E. A. & Davis, M. M. Isolation of cDNA clones encoding T cell- specific membrane-associated proteins. Nature 308, 149\u2013153 (1984). 16.Yanagi, Y. et al. A human T cell-specific cDNA clone encodes a protein having extensive homology to immunoglobulin chains. Nature 308, 145\u2013149 (1984). 17.Zinkernagel, R. M. & Doherty, P. C. Restriction of in vitro T cell-mediated cytotoxicity in lymphocytic choriomeningitis within a syngeneic or semiallogeneic system. Nature 248, 701\u2013702 (1974). 18.Bernard, O., Cory, S., Gerondakis, S., Webb, E. & Adams, J. M. Sequence of the murine and human cellular myc oncogenes and two modes of myc transcription resulting from chromosome translocation in B lymphoid tumours. EMBO J. 2, 2375\u20132383 (1983). 19.Vaux, D. L., Cory, S. & Adams, J. M. Bcl -2 gene promotes haemopoietic cell survival and cooperates with c- myc to immortalize pre-B cells. Nature 335, 440\u2013442 (1988). 20.Donnelly, J. J., Ulmer, J. B., Shiver, J. W. & Liu, M. A. DNA vaccines. Annu. Rev. Immunol. 15, 617\u2013648 (1997). 21.Krieg, A. M. CpG motifs in bacterial DNA and their immune effects. Annu. Rev. Immunol. 20, 709\u2013760 (2002). 22.Burnet, F. M. & Fenner, F. J. The Production of Antibodies (Macmillan, Melbourne, 1949). 23.Billingham, R. F., Brent, L. & Medawar, P. B. Actively acquired tolerance of foreign cells. Nature 172, 603\u2013606 (1953). 24.Nossal, G. J. V. & Pike, B. L. Clonal anergy: persistence in tolerant mice of antigen-binding B lymphocytes incapable of responding to antigen or mitogen. Proc. Natl Acad. Sci. USA 77, 1602\u20131606 (1980).",
         "style": {
             "font": "Minion-Regular",
             "size": 5.699999809265137,
@@ -136,9 +134,7 @@
         "parts": [
             "The digital code of DNA."
         ],
-        "summery_parts": [
-            "."
-        ]
+        "summery_parts": []
     },
     {
         "text": "Leroy Hood & David Galas",
@@ -153,12 +149,10 @@
         "parts": [
             "Leroy Hood & David Galas."
         ],
-        "summery_parts": [
-            "."
-        ]
+        "summery_parts": []
     },
     {
-        "text": "*Institute for Systems Biology, 4225 Roosevelt Way NE, Seattle, Washington 98105, USA (e-mail: lhood@systemsbiology.org)\u2020Keck Graduate Institute of Applied Sciences, 535 Watson Drive, Claremont,California 91711, USA (e-mail: david_galas@kgi.edu)",
+        "text": "* Institute for Systems Biology, 4225 Roosevelt Way NE, Seattle, Washington 98105, USA (e-mail: lhood@systemsbiology.org) \u2020 Keck Graduate Institute of Applied Sciences, 535 Watson Drive, Claremont, California 91711, USA (e-mail: david_galas@kgi.edu)",
         "style": {
             "font": "Minion-Regular",
             "size": 7.599999904632568,
@@ -168,7 +162,7 @@
         "id": 13
     },
     {
-        "text": "The discovery of the structure of DNA transformed biologyprofoundly, catalysing the sequencing of the human genomeand engendering a new view of biology as an informationscience. Two features of DNA structure account for much ofits remarkable impact on science: its digital nature and itscomplementarity, whereby one strand of the helix bindsperfectly with its partner. DNA has two types of digitalinformation \u2014 the genes that encode proteins, which are themolecular machines of life, and the gene regulatorynetworks that specify the behaviour of the genes.",
+        "text": "The discovery of the structure of DNA transformed biology profoundly, catalysing the sequencing of the human genome and engendering a new view of biology as an information science. Two features of DNA structure account for much of its remarkable impact on science: its digital nature and its complementarity, whereby one strand of the helix binds perfectly with its partner. DNA has two types of digital information \u2014 the genes that encode proteins, which are the molecular machines of life, and the gene regulatory networks that specify the behaviour of the genes.",
         "style": {
             "font": "HelveticaNeue-BoldCond",
             "size": 9.5,
@@ -176,20 +170,18 @@
         },
         "flag": "small",
         "id": 14,
-        "summery": "The discovery of the structure of DNA transformed biology engenders a new view of biology as an informationscience.",
+        "summery": "The structure of DNA transformed biology profoundly, catalysing the sequencing of the human genome and engendering a new view of biology as an information science.",
         "parts": [
-            "The discovery of the structure of DNA transformed biologyprofoundly, catalysing the sequencing of the human genomeand engendering a new view of biology as an informationscience.",
-            " Two features of DNA structure account for much ofits remarkable impact on science: its digital nature and itscomplementarity, whereby one strand of the helix bindsperfectly with its partner.",
-            " DNA has two types of digitalinformation \u2014 the genes that encode proteins, which are themolecular machines of life, and the gene regulatorynetworks that specify the behaviour of the genes.",
-            "."
+            "The discovery of the structure of DNA transformed biology profoundly, catalysing the sequencing of the human genome and engendering a new view of biology as an information science.",
+            " Two features of DNA structure account for much of its remarkable impact on science: its digital nature and its complementarity, whereby one strand of the helix binds perfectly with its partner.",
+            " DNA has two types of digital information \u2014 the genes that encode proteins, which are the molecular machines of life, and the gene regulatory networks that specify the behaviour of the genes."
         ],
         "summery_parts": [
-            "The discovery of the structure of DNA transformed biology engenders a new view of biology as an informationscience.",
-            "."
+            "The structure of DNA transformed biology profoundly, catalysing the sequencing of the human genome and engendering a new view of biology as an information science."
         ]
     },
     {
-        "text": "\u201cAny living cell carries with it the experiences of a billion years of experi-mentation by its ancestors.\u201d Max Delbruck, 1949.The discovery of the double helix in 1953 immediatelyraised questions about how biological information isencoded in DNA. A remarkable feature of the structureis that DNA can accommodate almost any sequence ofbase pairs \u2014 any combination of the bases adenine (A),cytosine (C), guanine (G) and thymine (T) \u2014 and, hence anydigital message or information. During the following decade it wasdiscovered that each gene encodes a complementary RNAtranscript, called messenger RNA (mRNA), made up of A, C, Gand uracil (U), instead of T. The four bases of the DNA and RNAalphabets are related to the 20 amino acids of the protein alphabetby a triplet code \u2014 each three letters (or \u2018codons\u2019) in a geneencodes one amino acid. For example, AGT encodes the aminoacid serine. The dictionary of DNA letters that make up the aminoacids is called the genetic code. There are 64 different triplets orcodons, 61 of which encode an amino acid (different triplets canencode the same amino acid), and three of which are used for\u2018punctuation\u2019 in that they signal the termination of the growingprotein chain.The molecular complementary of the double helix \u2014 wherebyeach base on one strand of DNA pairs with its complementary baseon the partner strand (A with T, and C with G) \u2014 has profoundimplications for biology. As implied by James Watson and FrancisCrick in their landmark paper, base pairing suggests a template-copying mechanism that accounts for the fidelity in copying of genetic material during DNA replication (see article in this issue byAlberts, page 431). It also underpins the synthesis of mRNA from theDNA template, as well as processes of repairing damaged DNA (discussed by Friedberg, page 436).",
+        "text": "\u201cAny living cell carries with it the experiences of a billion years of experi- mentation by its ancestors.\u201d Max Delbruck, 1949. The discovery of the double helix in 1953 immediately raised questions about how biological information is encoded in DNA . A remarkable feature of the structure is that DNA can accommodate almost any sequence of base pairs \u2014 any combination of the bases adenine (A), cytosine (C), guanine (G) and thymine (T) \u2014 and, hence any digital message or information. During the following decade it was discovered that each gene encodes a complementary RNA transcript, called messenger RNA (mRNA) , made up of A, C, G and uracil (U), instead of T. The four bases of the DNA and RNA alphabets are related to the 20 amino acids of the protein alphabet by a triplet code \u2014 each three letters (or \u2018codons\u2019) in a gene encodes one amino acid . For example, AGT encodes the amino acid serine. The dictionary of DNA letters that make up the amino acids is called the genetic code . There are 64 different triplets or codons, 61 of which encode an amino acid (different triplets can encode the same amino acid), and three of which are used for \u2018punctuation\u2019 in that they signal the termination of the growing protein chain. The molecular complementary of the double helix \u2014 whereby each base on one strand of DNA pairs with its complementary base on the partner strand (A with T, and C with G) \u2014 has profound implications for biology. As implied by James Watson and Francis Crick in their landmark paper , base pairing suggests a template- copying mechanism that accounts for the fidelity in copying of genetic material during DNA replication (see article in this issue by Alberts, page 431). It also underpins the synthesis of mRNA from the DNA template, as well as processes of repairing damaged DNA (discussed by Friedberg, page 436).",
         "style": {
             "font": "Minion-Italic",
             "size": 8.835000038146973,
@@ -197,26 +189,23 @@
         },
         "flag": "text",
         "id": 15,
-        "summery": "The double helix has profoundplications for biology. A remarkable feature of the structure is that DNA can accommodate almost any sequence of base pairs \u2014 any combination of the bases adenine,cytosine, guanine and thymine \u2014 and, hence any message or information.",
+        "summery": "The molecular complementary of the double helix \u2014 whereby each base on one strand of DNA pairs with its complementary base on the partner strand \u2014 has profound implications for biology.",
         "parts": [
-            "\u201cAny living cell carries with it the experiences of a billion years of experi-mentation by its ancestors.",
+            "\u201cAny living cell carries with it the experiences of a billion years of experi- mentation by its ancestors.",
             "\u201d Max Delbruck, 1949.",
-            "The discovery of the double helix in 1953 immediatelyraised questions about how biological information isencoded in DNA.",
-            " A remarkable feature of the structureis that DNA can accommodate almost any sequence ofbase pairs \u2014 any combination of the bases adenine (A),cytosine (C), guanine (G) and thymine (T) \u2014 and, hence anydigital message or information.",
-            " During the following decade it wasdiscovered that each gene encodes a complementary RNAtranscript, called messenger RNA (mRNA), made up of A, C, Gand uracil (U), instead of T.",
-            " The four bases of the DNA and RNAalphabets are related to the 20 amino acids of the protein alphabetby a triplet code \u2014 each three letters (or \u2018codons\u2019) in a geneencodes one amino acid.",
-            " For example, AGT encodes the aminoacid serine.",
-            " The dictionary of DNA letters that make up the aminoacids is called the genetic code.",
-            " There are 64 different triplets orcodons, 61 of which encode an amino acid (different triplets canencode the same amino acid), and three of which are used for\u2018punctuation\u2019 in that they signal the termination of the growingprotein chain.",
-            "The molecular complementary of the double helix \u2014 wherebyeach base on one strand of DNA pairs with its complementary baseon the partner strand (A with T, and C with G) \u2014 has profoundimplications for biology.",
-            " As implied by James Watson and FrancisCrick in their landmark paper, base pairing suggests a template-copying mechanism that accounts for the fidelity in copying of genetic material during DNA replication (see article in this issue byAlberts, page 431).",
-            " It also underpins the synthesis of mRNA from theDNA template, as well as processes of repairing damaged DNA (discussed by Friedberg, page 436).",
-            "."
+            " The discovery of the double helix in 1953 immediately raised questions about how biological information is encoded in DNA .",
+            " A remarkable feature of the structure is that DNA can accommodate almost any sequence of base pairs \u2014 any combination of the bases adenine (A), cytosine (C), guanine (G) and thymine (T) \u2014 and, hence any digital message or information.",
+            " During the following decade it was discovered that each gene encodes a complementary RNA transcript, called messenger RNA (mRNA) , made up of A, C, G and uracil (U), instead of T.",
+            " The four bases of the DNA and RNA alphabets are related to the 20 amino acids of the protein alphabet by a triplet code \u2014 each three letters (or \u2018codons\u2019) in a gene encodes one amino acid .",
+            " For example, AGT encodes the amino acid serine.",
+            " The dictionary of DNA letters that make up the amino acids is called the genetic code .",
+            " There are 64 different triplets or codons, 61 of which encode an amino acid (different triplets can encode the same amino acid), and three of which are used for \u2018punctuation\u2019 in that they signal the termination of the growing protein chain.",
+            " The molecular complementary of the double helix \u2014 whereby each base on one strand of DNA pairs with its complementary base on the partner strand (A with T, and C with G) \u2014 has profound implications for biology.",
+            " As implied by James Watson and Francis Crick in their landmark paper , base pairing suggests a template- copying mechanism that accounts for the fidelity in copying of genetic material during DNA replication (see article in this issue by Alberts, page 431).",
+            " It also underpins the synthesis of mRNA from the DNA template, as well as processes of repairing damaged DNA (discussed by Friedberg, page 436)."
         ],
         "summery_parts": [
-            "The double helix has profoundplications for biology.",
-            " A remarkable feature of the structure is that DNA can accommodate almost any sequence of base pairs \u2014 any combination of the bases adenine,cytosine, guanine and thymine \u2014 and, hence any message or information.",
-            "."
+            "The molecular complementary of the double helix \u2014 whereby each base on one strand of DNA pairs with its complementary base on the partner strand \u2014 has profound implications for biology."
         ]
     },
     {
@@ -233,7 +222,7 @@
         ]
     },
     {
-        "text": "The enzymes that function in cells to copy, cut and join DNA molecules were also exploited as key tools for revolutionary new tech-niques in molecular biology, including the cloning of genes andexpression of their proteins, and mapping the location of genes onchromosomes. The ability to recreate the process of DNA replicationartificially in the laboratory led to the development of two techniques",
+        "text": "The enzymes that function in cells to copy, cut and join DNA molecules were also exploited as key tools for revolutionary new tech- niques in molecular biology, including the cloning of genes and expression of their proteins, and mapping the location of genes on chromosomes. The ability to recreate the process of DNA replication artificially in the laboratory led to the development of two techniques",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -241,14 +230,13 @@
         },
         "flag": "text",
         "id": 17,
-        "summery": "The ability to recreate the process of replication replicationartificially in the laboratory led to the development of two techniques.",
+        "summery": "The ability to recreate the process of DNA replication artificially in the laboratory led to the development of two techniques.",
         "parts": [
-            "The enzymes that function in cells to copy, cut and join DNA molecules were also exploited as key tools for revolutionary new tech-niques in molecular biology, including the cloning of genes andexpression of their proteins, and mapping the location of genes onchromosomes.",
-            " The ability to recreate the process of DNA replicationartificially in the laboratory led to the development of two techniques."
+            "The enzymes that function in cells to copy, cut and join DNA molecules were also exploited as key tools for revolutionary new tech- niques in molecular biology, including the cloning of genes and expression of their proteins, and mapping the location of genes on chromosomes.",
+            " The ability to recreate the process of DNA replication artificially in the laboratory led to the development of two techniques."
         ],
         "summery_parts": [
-            "The ability to recreate the process of replication replicationartificially in the laboratory led to the development of two techniques.",
-            "."
+            "The ability to recreate the process of DNA replication artificially in the laboratory led to the development of two techniques."
         ]
     },
     {
@@ -283,12 +271,10 @@
         },
         "flag": "image",
         "id": 18,
-        "parts": [
-            "."
-        ]
+        "parts": []
     },
     {
-        "text": "DIFFERENCE AND REPETITION (DETAIL) BY SUZANNE ANKER (2000)COURTESY: UNIVERSAL CONCEPTS UNLIMITED, NYC.",
+        "text": "DIFFERENCE AND REPETITION (DETAIL) BY SUZANNE ANKER (2000) COURTESY: UNIVERSAL CONCEPTS UNLIMITED, NYC.",
         "style": {
             "font": "Minion-Regular",
             "size": 5.224999904632568,
@@ -298,7 +284,7 @@
         "id": 19
     },
     {
-        "text": "\u00a9 2003 Nature Publishing Group",
+        "text": "\u00a9  2003 Nature Publishing Group",
         "style": {
             "font": "Helvetica-Bold",
             "size": 7.0,
@@ -331,7 +317,7 @@
         "id": 22
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -341,7 +327,7 @@
         "id": 23
     },
     {
-        "text": " VOL 421",
+        "text": "VOL 421",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -351,7 +337,7 @@
         "id": 24
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -361,7 +347,7 @@
         "id": 25
     },
     {
-        "text": " 23 JANUARY 2003",
+        "text": "23 JANUARY 2003",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -371,7 +357,7 @@
         "id": 26
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -381,7 +367,7 @@
         "id": 27
     },
     {
-        "text": " www.nature.com/nature",
+        "text": "www.nature.com/nature",
         "style": {
             "font": "Minion-Regular",
             "size": 6.650000095367432,
@@ -401,7 +387,7 @@
         "id": 29
     },
     {
-        "text": "that transformed biology: a manual DNA sequencing method in1975 and, in 1985, the discovery of the polymerase chain reaction(PCR), whereby DNA sequences could be amplified a millionfold ormore.Although sequencing and PCR transformed the science of biology, they also had wide applications for medicine and forensics.The detection of variation in DNA sequence from one individual tothe next \u2014 so-called \u2018polymorphisms\u2019 \u2014 forms the basis of DNA\u2018finger-printing\u2019 of individuals. Forensics uses these fingerprints todeal with paternity disputes, as well as criminal cases such as rape.The finding that many specific DNA polymorphisms are associatedwith disease or disease susceptibility has brought DNA diagnostics tomedicine and opened the pathway to truly predictive medicine,where the risks of disease can be identified in advance of symptoms(see article in this issue by Bell, page 414).",
+        "text": "that transformed biology: a manual DNA sequencing method in 1975 and, in 1985, the discovery of the polymerase chain reaction (PCR), whereby DNA sequences could be amplified a millionfold or more . Although sequencing and PCR transformed the science of biology, they also had wide applications for medicine and forensics. The detection of variation in DNA sequence from one individual to the next \u2014 so-called \u2018polymorphisms\u2019 \u2014 forms the basis of DNA \u2018finger-printing\u2019 of individuals. Forensics uses these fingerprints to deal with paternity disputes, as well as criminal cases such as rape. The finding that many specific DNA polymorphisms are associated with disease or disease susceptibility has brought DNA diagnostics to medicine and opened the pathway to truly predictive medicine, where the risks of disease can be identified in advance of symptoms (see article in this issue by Bell, page 414).",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -409,18 +395,16 @@
         },
         "flag": "text",
         "id": 30,
-        "summery": "Specific DNA polymorphisms associated with disease or disease susceptibility have brought DNA diagnostics to medicine and opened the pathway to truly predictive medicine, where the risks of disease can be identified in advance of symptoms.",
+        "summery": "The finding that many specific DNA polymorphisms are associated with disease or disease susceptibility has brought DNA diagnostics to medicine and opened the pathway to truly predictive medicine, where the risks of disease can be identified in advance of symptoms.",
         "parts": [
-            "that transformed biology: a manual DNA sequencing method in1975 and, in 1985, the discovery of the polymerase chain reaction(PCR), whereby DNA sequences could be amplified a millionfold ormore.",
-            "Although sequencing and PCR transformed the science of biology, they also had wide applications for medicine and forensics.",
-            "The detection of variation in DNA sequence from one individual tothe next \u2014 so-called \u2018polymorphisms\u2019 \u2014 forms the basis of DNA\u2018finger-printing\u2019 of individuals.",
-            " Forensics uses these fingerprints todeal with paternity disputes, as well as criminal cases such as rape.",
-            "The finding that many specific DNA polymorphisms are associatedwith disease or disease susceptibility has brought DNA diagnostics tomedicine and opened the pathway to truly predictive medicine,where the risks of disease can be identified in advance of symptoms(see article in this issue by Bell, page 414).",
-            "."
+            "that transformed biology: a manual DNA sequencing method in 1975 and, in 1985, the discovery of the polymerase chain reaction (PCR), whereby DNA sequences could be amplified a millionfold or more .",
+            " Although sequencing and PCR transformed the science of biology, they also had wide applications for medicine and forensics.",
+            " The detection of variation in DNA sequence from one individual to the next \u2014 so-called \u2018polymorphisms\u2019 \u2014 forms the basis of DNA \u2018finger-printing\u2019 of individuals.",
+            " Forensics uses these fingerprints to deal with paternity disputes, as well as criminal cases such as rape.",
+            " The finding that many specific DNA polymorphisms are associated with disease or disease susceptibility has brought DNA diagnostics to medicine and opened the pathway to truly predictive medicine, where the risks of disease can be identified in advance of symptoms (see article in this issue by Bell, page 414)."
         ],
         "summery_parts": [
-            "Specific DNA polymorphisms associated with disease or disease susceptibility have brought DNA diagnostics to medicine and opened the pathway to truly predictive medicine, where the risks of disease can be identified in advance of symptoms.",
-            "."
+            "The finding that many specific DNA polymorphisms are associated with disease or disease susceptibility has brought DNA diagnostics to medicine and opened the pathway to truly predictive medicine, where the risks of disease can be identified in advance of symptoms."
         ]
     },
     {
@@ -436,12 +420,10 @@
         "parts": [
             "Automated DNA sequencing."
         ],
-        "summery_parts": [
-            "."
-        ]
+        "summery_parts": []
     },
     {
-        "text": "The first efforts to sequence DNA, pioneered by Walter Gilbert andFred Sanger in the 1970s, decoded stretches of DNA a few hundredbases long. When the first complete genome was sequenced over aperiod of about one year in 1977\u201378 \u2014 that of a viral genome ofabout 5,000 bases \u2014 it became clear that DNA sequence data couldprovide unique insights into the structure and function of genes, aswell as genome organization. It was this potential to generate vastamounts of information about an organism from its genetic codethat inspired efforts towards the automation of DNA sequencing(Fig. 1).The combination of technical wizardry and intensive automationin the decade that followed launched the \u2018genomic era\u2019. A series of newinstruments enabled novel approaches to biological analysis. Thefirst sequencing machine \u2014 invented by Leroy Hood, Lloyd Smithand Mike Hunkapiller in 1986 (ref. 12) \u2014 was automated in dataacquisition, but still required substantial manual attention and thesequencing rate was low, roughly 250 bases per day. Over the next tenyears, the development of automated DNA sequencing accelerated,rapidly passing through three distinct stages: the prototype sequenc-ing machine (1986); a robust instrument that could be used routinelyin a standard laboratory (1989); and finally, a machine that formedpart of an integrated factory-like production line where DNA samplepreparation and sequencing were all fully automated (1998). Theadvances in sequencing capacity have been striking \u2014 the latestsequencing machines are able to decode approximately 1.5 millionbases over 24 hours \u2014 6,000 times the throughput of the prototype.The goals of high-throughput biological instrumentation are toincrease throughput, enhance the quality of the data, and greatlyreduce the cost of per unit information acquired. To reach these goalsin the future, the miniaturization, automation, parallelization andintegration of successive procedures will propel DNA sequencingtechnology into the realm of microfluidics and microelectronics, andeventually into the area of nanotechnology. With single-DNA-molecule sequencing, we foresee a time when the entire genome of anindividual could be sequenced in a single day at a cost of less than$US10,000 (compared with the US$50 million or more it would costtoday). This will readily enable the decoding of the genomic sequenceof virtually any organism on the planet and provide unparalleledaccess to the foundations of biology and the study of human geneticvariability.",
+        "text": "The first efforts to sequence DNA, pioneered by Walter Gilbert  and Fred Sanger  in the 1970s, decoded stretches of DNA a few hundred bases long. When the first complete genome was sequenced over a period of about one year in 1977\u201378 \u2014 that of a viral genome of about 5,000 bases  \u2014 it became clear that DNA sequence data could provide unique insights into the structure and function of genes, as well as genome organization. It was this potential to generate vast amounts of information about an organism from its genetic code that inspired efforts towards the automation of DNA sequencing (Fig. 1). The combination of technical wizardry and intensive automation in the decade that followed launched the \u2018genomic era\u2019. A series of new instruments enabled novel approaches to biological analysis . The first sequencing machine \u2014 invented by Leroy Hood, Lloyd Smith and Mike Hunkapiller in 1986 (ref. 12) \u2014 was automated in data acquisition, but still required substantial manual attention and the sequencing rate was low, roughly 250 bases per day. Over the next ten years, the development of automated DNA sequencing accelerated, rapidly passing through three distinct stages: the prototype sequenc- ing machine (1986); a robust instrument that could be used routinely in a standard laboratory (1989); and finally, a machine that formed part of an integrated factory-like production line where DNA sample preparation and sequencing were all fully automated (1998). The advances in sequencing capacity have been striking \u2014 the latest sequencing machines are able to decode approximately 1.5 million bases over 24 hours \u2014 6,000 times the throughput of the prototype. The goals of high-throughput biological instrumentation are to increase throughput, enhance the quality of the data, and greatly reduce the cost of per unit information acquired. To reach these goals in the future, the miniaturization, automation, parallelization and integration of successive procedures will propel DNA sequencing technology into the realm of microfluidics and microelectronics, and eventually into the area of nanotechnology. With single-DNA- molecule sequencing, we foresee a time when the entire genome of an individual could be sequenced in a single day at a cost of less than $US10,000 (compared with the US$50 million or more it would cost today). This will readily enable the decoding of the genomic sequence of virtually any organism on the planet and provide unparalleled access to the foundations of biology and the study of human genetic variability.",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -449,25 +431,23 @@
         },
         "flag": "text",
         "id": 32,
-        "summery": "High-throughput biological instrumentation is toincrease throughput, enhance the quality of the data, and greatlyreduce the cost of per unit information acquired.",
+        "summery": "The combination of technical and intensive automation in the decade that followed launched the \u2018genomic era\u2019 resulted in the automation of DNA sequencing.",
         "parts": [
-            "The first efforts to sequence DNA, pioneered by Walter Gilbert andFred Sanger in the 1970s, decoded stretches of DNA a few hundredbases long.",
-            " When the first complete genome was sequenced over aperiod of about one year in 1977\u201378 \u2014 that of a viral genome ofabout 5,000 bases \u2014 it became clear that DNA sequence data couldprovide unique insights into the structure and function of genes, aswell as genome organization.",
-            " It was this potential to generate vastamounts of information about an organism from its genetic codethat inspired efforts towards the automation of DNA sequencing(Fig 1).",
-            "The combination of technical wizardry and intensive automationin the decade that followed launched the \u2018genomic era\u2019.",
-            " A series of newinstruments enabled novel approaches to biological analysis.",
-            " Thefirst sequencing machine \u2014 invented by Leroy Hood, Lloyd Smithand Mike Hunkapiller in 1986 (ref 12) \u2014 was automated in dataacquisition, but still required substantial manual attention and thesequencing rate was low, roughly 250 bases per day.",
-            " Over the next tenyears, the development of automated DNA sequencing accelerated,rapidly passing through three distinct stages: the prototype sequenc-ing machine (1986); a robust instrument that could be used routinelyin a standard laboratory (1989); and finally, a machine that formedpart of an integrated factory-like production line where DNA samplepreparation and sequencing were all fully automated (1998).",
-            " Theadvances in sequencing capacity have been striking \u2014 the latestsequencing machines are able to decode approximately 1.5 millionbases over 24 hours \u2014 6,000 times the throughput of the prototype.",
-            "The goals of high-throughput biological instrumentation are toincrease throughput, enhance the quality of the data, and greatlyreduce the cost of per unit information acquired.",
-            " To reach these goalsin the future, the miniaturization, automation, parallelization andintegration of successive procedures will propel DNA sequencingtechnology into the realm of microfluidics and microelectronics, andeventually into the area of nanotechnology.",
-            " With single-DNA-molecule sequencing, we foresee a time when the entire genome of anindividual could be sequenced in a single day at a cost of less than$US10,000 (compared with the US$50 million or more it would costtoday).",
-            " This will readily enable the decoding of the genomic sequenceof virtually any organism on the planet and provide unparalleledaccess to the foundations of biology and the study of human geneticvariability.",
-            "."
+            "The first efforts to sequence DNA, pioneered by Walter Gilbert  and Fred Sanger  in the 1970s, decoded stretches of DNA a few hundred bases long.",
+            " When the first complete genome was sequenced over a period of about one year in 1977\u201378 \u2014 that of a viral genome of about 5,000 bases  \u2014 it became clear that DNA sequence data could provide unique insights into the structure and function of genes, as well as genome organization.",
+            " It was this potential to generate vast amounts of information about an organism from its genetic code that inspired efforts towards the automation of DNA sequencing (Fig 1).",
+            " The combination of technical wizardry and intensive automation in the decade that followed launched the \u2018genomic era\u2019.",
+            " A series of new instruments enabled novel approaches to biological analysis .",
+            " The first sequencing machine \u2014 invented by Leroy Hood, Lloyd Smith and Mike Hunkapiller in 1986 (ref 12) \u2014 was automated in data acquisition, but still required substantial manual attention and the sequencing rate was low, roughly 250 bases per day.",
+            " Over the next ten years, the development of automated DNA sequencing accelerated, rapidly passing through three distinct stages: the prototype sequenc- ing machine (1986); a robust instrument that could be used routinely in a standard laboratory (1989); and finally, a machine that formed part of an integrated factory-like production line where DNA sample preparation and sequencing were all fully automated (1998).",
+            " The advances in sequencing capacity have been striking \u2014 the latest sequencing machines are able to decode approximately 1.5 million bases over 24 hours \u2014 6,000 times the throughput of the prototype.",
+            " The goals of high-throughput biological instrumentation are to increase throughput, enhance the quality of the data, and greatly reduce the cost of per unit information acquired.",
+            " To reach these goals in the future, the miniaturization, automation, parallelization and integration of successive procedures will propel DNA sequencing technology into the realm of microfluidics and microelectronics, and eventually into the area of nanotechnology.",
+            " With single-DNA- molecule sequencing, we foresee a time when the entire genome of an individual could be sequenced in a single day at a cost of less than $US10,000 (compared with the US$50 million or more it would cost today).",
+            " This will readily enable the decoding of the genomic sequence of virtually any organism on the planet and provide unparalleled access to the foundations of biology and the study of human genetic variability."
         ],
         "summery_parts": [
-            "High-throughput biological instrumentation is toincrease throughput, enhance the quality of the data, and greatlyreduce the cost of per unit information acquired.",
-            "."
+            "The combination of technical and intensive automation in the decade that followed launched the \u2018genomic era\u2019 resulted in the automation of DNA sequencing."
         ]
     },
     {
@@ -487,12 +467,11 @@
             "A method is provided for improving the quality of life for a person who is physically handicapped.",
             " The method includes providing a method for improving the quality of life for a person who is physically handicapped.",
             " The method includes providing a method for improving the quality of life for a person who is not physically handicapped.",
-            " The method includes providing a method for improving the quality of life for a person who is not physically handicapped.",
-            "."
+            " The method includes providing a method for improving the quality of life for a person who is not physically handicapped."
         ]
     },
     {
-        "text": "The breathtaking speed at which automated DNA sequencing developed was largely stimulated by the throughput demands of theHuman Genome Project (HGP), which officially started in 1990 following discussions and studies on feasibility and technology thatbegan in earnest in 1985. The objectives of the HGP were to generate afinished sequence in 15 years, but a draft of the human genomesequence was available in 2001. Two versions of the draft were generated and published in 2001, one by the publicly funded Interna-tional Human Genome Sequencing Consortium, and another bythe biotechnology company Celera (Box 1). In the process of developing the tools and methodology to be able to sequence andassemble the 3 billion bases of the human genome, a range of plant,animal and microbial genomes was sequenced and many more arecurrently being decoded. As genome sequences become available,different areas of biology are being transformed \u2014 for example, thediscipline of microbiology has changed significantly with the completion of more than 100 bacterial genome sequences over thepast decade.The HGP profoundly influenced biology in two respects. First, itillustrated the concept of \u2018discovery science\u2019 \u2014 the idea that all theelements of the system (that is, the complete genome sequence and",
+        "text": "The breathtaking speed at which automated DNA sequencing developed was largely stimulated by the throughput demands of the Human Genome Project (HGP), which officially started in 1990 following discussions and studies on feasibility and technology that began in earnest in 1985. The objectives of the HGP were to generate a finished sequence in 15 years , but a draft of the human genome sequence was available in 2001. Two versions of the draft were generated and published in 2001, one by the publicly funded Interna- tional Human Genome Sequencing Consortium , and another by the biotechnology company Celera  (Box 1). In the process of developing the tools and methodology to be able to sequence and assemble the 3 billion bases of the human genome, a range of plant, animal and microbial genomes was sequenced and many more are currently being decoded. As genome sequences become available, different areas of biology are being transformed \u2014 for example, the discipline of microbiology has changed significantly with the completion of more than 100 bacterial genome sequences over the past decade. The HGP profoundly influenced biology in two respects. First, it illustrated the concept of \u2018discovery science\u2019 \u2014 the idea that all the elements of the system (that is, the complete genome sequence and",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -500,23 +479,22 @@
         },
         "flag": "text",
         "id": 34,
-        "summery": "The process of developing the tools and methodology to be able to sequence andassemble the 3 billion bases of the human genome, a range of plant, animal and microbial genomes was sequenced and many more are currently being decoded.",
+        "summery": "The process of developing the tools and methodology to be able to sequence and assemble the 3 billion bases of the human genome, a range of plant, animal and microbial genomes was sequenced and many more are currently being decoded.",
         "parts": [
-            "The breathtaking speed at which automated DNA sequencing developed was largely stimulated by the throughput demands of theHuman Genome Project (HGP), which officially started in 1990 following discussions and studies on feasibility and technology thatbegan in earnest in 1985.",
-            " The objectives of the HGP were to generate afinished sequence in 15 years, but a draft of the human genomesequence was available in 2001.",
-            " Two versions of the draft were generated and published in 2001, one by the publicly funded Interna-tional Human Genome Sequencing Consortium, and another bythe biotechnology company Celera (Box 1).",
-            " In the process of developing the tools and methodology to be able to sequence andassemble the 3 billion bases of the human genome, a range of plant,animal and microbial genomes was sequenced and many more arecurrently being decoded.",
-            " As genome sequences become available,different areas of biology are being transformed \u2014 for example, thediscipline of microbiology has changed significantly with the completion of more than 100 bacterial genome sequences over thepast decade.",
-            "The HGP profoundly influenced biology in two respects.",
-            " First, itillustrated the concept of \u2018discovery science\u2019 \u2014 the idea that all theelements of the system (that is, the complete genome sequence and."
+            "The breathtaking speed at which automated DNA sequencing developed was largely stimulated by the throughput demands of the Human Genome Project (HGP), which officially started in 1990 following discussions and studies on feasibility and technology that began in earnest in 1985.",
+            " The objectives of the HGP were to generate a finished sequence in 15 years , but a draft of the human genome sequence was available in 2001.",
+            " Two versions of the draft were generated and published in 2001, one by the publicly funded Interna- tional Human Genome Sequencing Consortium , and another by the biotechnology company Celera  (Box 1).",
+            " In the process of developing the tools and methodology to be able to sequence and assemble the 3 billion bases of the human genome, a range of plant, animal and microbial genomes was sequenced and many more are currently being decoded.",
+            " As genome sequences become available, different areas of biology are being transformed \u2014 for example, the discipline of microbiology has changed significantly with the completion of more than 100 bacterial genome sequences over the past decade.",
+            " The HGP profoundly influenced biology in two respects.",
+            " First, it illustrated the concept of \u2018discovery science\u2019 \u2014 the idea that all the elements of the system (that is, the complete genome sequence and."
         ],
         "summery_parts": [
-            "The process of developing the tools and methodology to be able to sequence andassemble the 3 billion bases of the human genome, a range of plant, animal and microbial genomes was sequenced and many more are currently being decoded.",
-            "."
+            "The process of developing the tools and methodology to be able to sequence and assemble the 3 billion bases of the human genome, a range of plant, animal and microbial genomes was sequenced and many more are currently being decoded."
         ]
     },
     {
-        "text": "bd",
+        "text": "b d",
         "style": {
             "font": "HelveticaNeue-Black",
             "size": 7.599999904632568,
@@ -526,7 +504,7 @@
         "id": 35
     },
     {
-        "text": "DNA polymerase5'\u2013T G G G C T A A C A A G C A A A T G A T C T G T A G T3'\u2013A C C C G A T T G T T C G T T T A C T A G A C A T C A A A T T G T C T \u20135'T G G G C T A A C A A G C A A A T G A T C T G T A G TT G G G C T A A C A A G C A A A T G A T C T G T A GT G G G C T A A C A A G C A A A T G A T C T G T AT G G G C T A A C A A G C A A A T G A T C T G TT G G G C T A A C A A G C A A A T G A T C T GT G G G C T A A C A A G C A A A T G A T C TT G G G C T A A C A A G C A A A T G A T CT G G G C T A A C A A G C A A A T G A TT G G G C T A A C A A G C A A A T G A",
+        "text": "DNA polymerase 5'\u2013T G G G C T A A C A A G C A A A T G A T C T G T A G T 3'\u2013A C C C G A T T G T T C G T T T A C T A G A C A T C A A A T T G T C T \u20135' T G G G C T A A C A A G C A A A T G A T C T G T A G T T G G G C T A A C A A G C A A A T G A T C T G T A G T G G G C T A A C A A G C A A A T G A T C T G T A T G G G C T A A C A A G C A A A T G A T C T G T T G G G C T A A C A A G C A A A T G A T C T G T G G G C T A A C A A G C A A A T G A T C T T G G G C T A A C A A G C A A A T G A T C T G G G C T A A C A A G C A A A T G A T T G G G C T A A C A A G C A A A T G A",
         "style": {
             "font": "HelveticaNeue-Roman",
             "size": 6.650000095367432,
@@ -536,7 +514,7 @@
         "id": 36
     },
     {
-        "text": "1520144013601280120011201040901001101201301600",
+        "text": "1520 1440 1360 1280 1200 1120 1040 90 100 110 120 130 1600",
         "style": {
             "font": "HelveticaNeue-Roman",
             "size": 4.75,
@@ -587,9 +565,7 @@
         },
         "flag": "image",
         "id": 39,
-        "parts": [
-            "."
-        ]
+        "parts": []
     },
     {
         "text": "C",
@@ -633,12 +609,10 @@
         },
         "flag": "image",
         "id": 41,
-        "parts": [
-            "."
-        ]
+        "parts": []
     },
     {
-        "text": "Figure 1 How to sequence DNA. a, DNApolymerase copies a strand of DNA. b, Theinsertion of a terminator base into the growingstrand halts the copying process. This is arandom event that results in a series offragments of different lengths, depending onthe base at which the copying stopped. Thefragments are separated by size by runningthem through a gel matrix, with the shortestfragments at the bottom and largest at the top.c, The terminators are labelled with differentfluorescent dyes, so each fragment willfluoresce a particular colour depending onwhether it ends with an A, C, G, or T base. d, The sequence is \u2018read\u2019 by a computer. Itgenerates a \u2018sequence trace\u2019, as shown here,with the coloured peaks corresponding tofluorescent bands read from the bottom to thetop of one lane of the gel. The computertranslates these fluorescent signals to DNAsequence, as illustrated across the top of theplot. Image adapted from ref. 20.",
+        "text": "Figure 1 How to sequence DNA. a , DNA polymerase copies a strand of DNA. b , The insertion of a terminator base into the growing strand halts the copying process. This is a random event that results in a series of fragments of different lengths, depending on the base at which the copying stopped. The fragments are separated by size by running them through a gel matrix, with the shortest fragments at the bottom and largest at the top. c , The terminators are labelled with different fluorescent dyes, so each fragment will fluoresce a particular colour depending on whether it ends with an A, C, G, or T base. d , The sequence is \u2018read\u2019 by a computer. It generates a \u2018sequence trace\u2019, as shown here, with the coloured peaks corresponding to fluorescent bands read from the bottom to the top of one lane of the gel. The computer translates these fluorescent signals to DNA sequence, as illustrated across the top of the plot. Image adapted from ref. 20.",
         "style": {
             "font": "HelveticaNeue-BoldCond",
             "size": 7.599999904632568,
@@ -648,7 +622,7 @@
         "id": 42
     },
     {
-        "text": "\u00a9 2003 Nature Publishing Group",
+        "text": "\u00a9  2003 Nature Publishing Group",
         "style": {
             "font": "Helvetica-Bold",
             "size": 7.0,
@@ -691,7 +665,7 @@
         "id": 46
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -701,7 +675,7 @@
         "id": 47
     },
     {
-        "text": " VOL 421",
+        "text": "VOL 421",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -711,7 +685,7 @@
         "id": 48
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -721,7 +695,7 @@
         "id": 49
     },
     {
-        "text": " 23 JANUARY 2003",
+        "text": "23 JANUARY 2003",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -731,7 +705,7 @@
         "id": 50
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -741,7 +715,7 @@
         "id": 51
     },
     {
-        "text": " www.nature.com/nature",
+        "text": "www.nature.com/nature",
         "style": {
             "font": "Minion-Regular",
             "size": 6.650000095367432,
@@ -751,7 +725,7 @@
         "id": 52
     },
     {
-        "text": "the entire RNA and protein output encoded by the genome) can bedefined, archived in a database, and made available to facilitatehypothesis-driven science and global analyses. Second, to succeed,the HGP pushed the development of efficient large-scale DNAsequencing and, simultaneously, drove the creation of high-through-put tools (for example, DNA arrays and mass spectrometry) for theanalysis of other types of related biological information, such asmRNAs, proteins and molecular interactions.",
+        "text": "the entire RNA and protein output encoded by the genome) can be defined, archived in a database, and made available to facilitate hypothesis-driven science and global analyses. Second, to succeed, the HGP pushed the development of efficient large-scale DNA sequencing and, simultaneously, drove the creation of high-through- put tools (for example, DNA arrays and mass spectrometry) for the analysis of other types of related biological information, such as mRNAs, proteins and molecular interactions.",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -759,15 +733,13 @@
         },
         "flag": "text",
         "id": 53,
-        "summery": "The entire RNA and protein output encoded by the genome ) can bedefined, archived in a database, and made available to facilitate HSVhypothesis-driven science and global analyses.",
+        "summery": "The entire RNA and protein output encoded by the genome can be defined, archived in a database, and made available to facilitate hypothesis-driven science and global analyses.",
         "parts": [
-            "the entire RNA and protein output encoded by the genome) can bedefined, archived in a database, and made available to facilitatehypothesis-driven science and global analyses.",
-            " Second, to succeed,the HGP pushed the development of efficient large-scale DNAsequencing and, simultaneously, drove the creation of high-through-put tools (for example, DNA arrays and mass spectrometry) for theanalysis of other types of related biological information, such asmRNAs, proteins and molecular interactions.",
-            "."
+            "the entire RNA and protein output encoded by the genome) can be defined, archived in a database, and made available to facilitate hypothesis-driven science and global analyses.",
+            " Second, to succeed, the HGP pushed the development of efficient large-scale DNA sequencing and, simultaneously, drove the creation of high-through- put tools (for example, DNA arrays and mass spectrometry) for the analysis of other types of related biological information, such as mRNAs, proteins and molecular interactions."
         ],
         "summery_parts": [
-            "The entire RNA and protein output encoded by the genome ) can bedefined, archived in a database, and made available to facilitate HSVhypothesis-driven science and global analyses.",
-            "."
+            "The entire RNA and protein output encoded by the genome can be defined, archived in a database, and made available to facilitate hypothesis-driven science and global analyses."
         ]
     },
     {
@@ -784,12 +756,11 @@
             "The digital nature of biological information."
         ],
         "summery_parts": [
-            "The digital nature of biological information.",
-            "."
+            "The digital nature of biological information."
         ]
     },
     {
-        "text": "The value of having an entire genome sequence is that one can initiatethe study of a biological system with a precisely definable digital coreof information for that organism \u2014 a fully delineated genetic sourcecode. The challenge, then, is in deciphering what information isencoded within the digital code. The genome encodes two main typesof digital information \u2014 the genes that encode the protein and RNAmolecular machines of life, and the regulatory networks that specifyhow these genes are expressed in time, space and amplitude.It is the evolution of the regulatory networks and not the genesthemselves that play the critical role in making organisms differentfrom one another. The digital information in genomes operatesacross three diverse time spans: evolution (tens to millions of years),development (hours to tens of years), and physiology (millisecondsto weeks). Development is the elaboration of an organism from a single cell (the fertilized egg) to an adult (for humans this is 10 cellsof thousands of different types). Physiology is the triggering of specific functional programmes (for example, the immuneresponse) by environmental cues. Regulatory networks are crucial ineach of these aspects of biology.Regulatory networks are composed of two main types of compo-nents: transcription factors and the DNA sites to which they bind inthe control regions of genes, such as promoters, enhancers andsilencers. The control regions of individual genes serve as information processors to integrate the information inherent in theconcentrations of different transcription factors into signals thatmediate gene expression. The collection of the transcription factorsand their cognate DNA-binding sites in the control regions of genesthat carry out a particular developmental or physiological functionconstitute these regulatory networks (Fig. 2).Because most \u2018higher\u2019 organisms or eukaryotes (organisms thatcontain their DNA in a cellular compartment called the nucleus),such as yeast, flies and humans, have predominantly the same families of genes, it is the reorganization of DNA-binding sites in thecontrol regions of genes that mediate the changes in the developmen-tal programmes that distinguish one species from another. Thus, theregulatory networks are uniquely specified by their DNA-bindingsites and, accordingly, are basically digital in nature.One thing that is striking about digital regulatory networks is thatthey can change significantly in short periods of evolutionary time.This is reflected, for example, in the huge diversity of the body plans,controlled by gene regulatory networks, that emerged over perhaps10\u201330 million years during the Cambrian explosion of metazoanorganisms (about 550 million years ago). Likewise, remarkablechanges occurred to the regulatory networks driving the develop-ment of the human brain during its divergence from its commonancestor with chimpanzees about 6 million years ago.Biology has evolved several different types of informational hier-archies. First, a regulatory hierarchy is a gene network that defines therelationships of a set of transcription factors, their DNA-binding sitesand the downstream peripheral genes that collectively control a par-ticular aspect of development. A model of development in the seaurchin represents a striking example(Fig. 2). Second, an evolution-ary hierarchy defines an order set of relationships, arising from DNAduplication. For example, a single gene may be duplicated to generatea multi-gene family, and a multi-gene family may be duplicated tocreate a supergene family. Third, molecular machines may be assem-bled into structural hierarchies by an ordered assembly process. Oneexample of this is the basic transcription apparatus that involves thestep-by-step recruitment of factors and enzymes that will ultimatelydrive the specific expression of a given gene. A second example is pro-vided by the ribosome, the complex that translates RNA into protein,which is assembled from more than 50 different proteins and a fewRNA molecules. Finally, an informational hierarchy depicts the flowof information from a gene to environment: gene \u2192 RNA \u2192 protein\u2192 protein interactions \u2192 protein complexes \u2192 networks of proteincomplexes in a cell \u2192 tissues or organs \u2192 individual organisms \u2192populations \u2192 ecosystems. At each successively higher level in theinformational hierarchy, information can be added or altered for anygiven element (for example, by alternative RNA splicing or proteinmodification).",
+        "text": "The value of having an entire genome sequence is that one can initiate the study of a biological system with a precisely definable digital core of information for that organism \u2014 a fully delineated genetic source code. The challenge, then, is in deciphering what information is encoded within the digital code. The genome encodes two main types of digital information \u2014 the genes that encode the protein and RNA molecular machines of life, and the regulatory networks that specify how these genes are expressed in time, space and amplitude. It is the evolution of the regulatory networks and not the genes themselves that play the critical role in making organisms different from one another. The digital information in genomes operates across three diverse time spans: evolution (tens to millions of years), development (hours to tens of years), and physiology (milliseconds to weeks). Development is the elaboration of an organism from a single cell (the fertilized egg) to an adult (for humans this is 10  cells of thousands of different types). Physiology is the triggering of specific functional programmes (for example, the immune response) by environmental cues. Regulatory networks are crucial in each of these aspects of biology. Regulatory networks are composed of two main types of compo- nents: transcription factors and the DNA sites to which they bind in the control regions of genes, such as promoters, enhancers and silencers. The control regions of individual genes serve as information processors to integrate the information inherent in the concentrations of different transcription factors into signals that mediate gene expression. The collection of the transcription factors and their cognate DNA-binding sites in the control regions of genes that carry out a particular developmental or physiological function constitute these regulatory networks (Fig. 2). Because most \u2018higher\u2019 organisms or eukaryotes (organisms that contain their DNA in a cellular compartment called the nucleus), such as yeast, flies and humans, have predominantly the same families of genes, it is the reorganization of DNA-binding sites in the control regions of genes that mediate the changes in the developmen- tal programmes that distinguish one species from another. Thus, the regulatory networks are uniquely specified by their DNA-binding sites and, accordingly, are basically digital in nature. One thing that is striking about digital regulatory networks is that they can change significantly in short periods of evolutionary time. This is reflected, for example, in the huge diversity of the body plans, controlled by gene regulatory networks, that emerged over perhaps 10\u201330 million years during the Cambrian explosion of metazoan organisms (about 550 million years ago). Likewise, remarkable changes occurred to the regulatory networks driving the develop- ment of the human brain during its divergence from its common ancestor with chimpanzees about 6 million years ago. Biology has evolved several different types of informational hier- archies. First, a regulatory hierarchy is a gene network that defines the relationships of a set of transcription factors, their DNA-binding sites and the downstream peripheral genes that collectively control a par- ticular aspect of development. A model of development in the sea urchin represents a striking example (Fig. 2). Second, an evolution- ary hierarchy defines an order set of relationships, arising from DNA duplication. For example, a single gene may be duplicated to generate a multi-gene family, and a multi-gene family may be duplicated to create a supergene family. Third, molecular machines may be assem- bled into structural hierarchies by an ordered assembly process. One example of this is the basic transcription apparatus that involves the step-by-step recruitment of factors and enzymes that will ultimately drive the specific expression of a given gene. A second example is pro- vided by the ribosome, the complex that translates RNA into protein, which is assembled from more than 50 different proteins and a few RNA molecules. Finally, an informational hierarchy depicts the flow of information from a gene to environment: gene \u2192 RNA \u2192 protein \u2192 protein interactions \u2192 protein complexes \u2192 networks of protein complexes in a cell \u2192 tissues or organs \u2192 individual organisms \u2192 populations \u2192 ecosystems. At each successively higher level in the informational hierarchy, information can be added or altered for any given element (for example, by alternative RNA splicing or protein modification).",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -797,43 +768,40 @@
         },
         "flag": "text",
         "id": 55,
-        "summery": "The digital information in genomes operates across three diverse time spans: evolution, development and physiology. Generation is the elaboration of an organism from a single cell to an adult. Simulation is the triggering of specific functional programmes by environmental cues. Computer networks are crucial in each of these aspects of biology. In each of these aspects of biology, informational networks are composed of two main types of compo-nents: transcription factors and the DNA sites to which they bind inthe control regions of genes, such as promoters, enhancers and silencers.",
+        "summery": "The value of having an entire genome sequence is that one can initiate the study of a biological system with a precisely definable digital core of information for that organism \u2014 a fully delineated genetic source code. The challenge, then, is in deciphering what information is encoded within the digital code. The genome encodes two main types of digital information \u2014 the genes that encode the protein and molecular machines of life, and the regulatory networks that specify how these genes are expressed in time, space and amplitude. It is the evolution of the regulatory networks and not the genes themselves that play the critical role in making organisms different from one another.",
         "parts": [
-            "The value of having an entire genome sequence is that one can initiatethe study of a biological system with a precisely definable digital coreof information for that organism \u2014 a fully delineated genetic sourcecode.",
-            " The challenge, then, is in deciphering what information isencoded within the digital code.",
-            " The genome encodes two main typesof digital information \u2014 the genes that encode the protein and RNAmolecular machines of life, and the regulatory networks that specifyhow these genes are expressed in time, space and amplitude.",
-            "It is the evolution of the regulatory networks and not the genesthemselves that play the critical role in making organisms differentfrom one another.",
-            " The digital information in genomes operatesacross three diverse time spans: evolution (tens to millions of years),development (hours to tens of years), and physiology (millisecondsto weeks).",
-            " Development is the elaboration of an organism from a single cell (the fertilized egg) to an adult (for humans this is 10 cellsof thousands of different types).",
-            " Physiology is the triggering of specific functional programmes (for example, the immuneresponse) by environmental cues.",
-            " Regulatory networks are crucial ineach of these aspects of biology.",
-            "Regulatory networks are composed of two main types of compo-nents: transcription factors and the DNA sites to which they bind inthe control regions of genes, such as promoters, enhancers andsilencers.",
-            " The control regions of individual genes serve as information processors to integrate the information inherent in theconcentrations of different transcription factors into signals thatmediate gene expression.",
-            " The collection of the transcription factorsand their cognate DNA-binding sites in the control regions of genesthat carry out a particular developmental or physiological functionconstitute these regulatory networks (Fig 2).",
-            "Because most \u2018higher\u2019 organisms or eukaryotes (organisms thatcontain their DNA in a cellular compartment called the nucleus),such as yeast, flies and humans, have predominantly the same families of genes, it is the reorganization of DNA-binding sites in thecontrol regions of genes that mediate the changes in the developmen-tal programmes that distinguish one species from another.",
-            " Thus, theregulatory networks are uniquely specified by their DNA-bindingsites and, accordingly, are basically digital in nature.",
-            "One thing that is striking about digital regulatory networks is thatthey can change significantly in short periods of evolutionary time.",
-            "This is reflected, for example, in the huge diversity of the body plans,controlled by gene regulatory networks, that emerged over perhaps10\u201330 million years during the Cambrian explosion of metazoanorganisms (about 550 million years ago).",
-            " Likewise, remarkablechanges occurred to the regulatory networks driving the develop-ment of the human brain during its divergence from its commonancestor with chimpanzees about 6 million years ago.",
-            "Biology has evolved several different types of informational hier-archies.",
-            " First, a regulatory hierarchy is a gene network that defines therelationships of a set of transcription factors, their DNA-binding sitesand the downstream peripheral genes that collectively control a par-ticular aspect of development.",
-            " A model of development in the seaurchin represents a striking example(Fig 2).",
-            " Second, an evolution-ary hierarchy defines an order set of relationships, arising from DNAduplication.",
-            " For example, a single gene may be duplicated to generatea multi-gene family, and a multi-gene family may be duplicated tocreate a supergene family.",
-            " Third, molecular machines may be assem-bled into structural hierarchies by an ordered assembly process.",
-            " Oneexample of this is the basic transcription apparatus that involves thestep-by-step recruitment of factors and enzymes that will ultimatelydrive the specific expression of a given gene.",
-            " A second example is pro-vided by the ribosome, the complex that translates RNA into protein,which is assembled from more than 50 different proteins and a fewRNA molecules.",
-            " Finally, an informational hierarchy depicts the flowof information from a gene to environment: gene \u2192 RNA \u2192 protein\u2192 protein interactions \u2192 protein complexes \u2192 networks of proteincomplexes in a cell \u2192 tissues or organs \u2192 individual organisms \u2192populations \u2192 ecosystems.",
-            " At each successively higher level in theinformational hierarchy, information can be added or altered for anygiven element (for example, by alternative RNA splicing or proteinmodification).",
-            "."
+            "The value of having an entire genome sequence is that one can initiate the study of a biological system with a precisely definable digital core of information for that organism \u2014 a fully delineated genetic source code.",
+            " The challenge, then, is in deciphering what information is encoded within the digital code.",
+            " The genome encodes two main types of digital information \u2014 the genes that encode the protein and RNA molecular machines of life, and the regulatory networks that specify how these genes are expressed in time, space and amplitude.",
+            " It is the evolution of the regulatory networks and not the genes themselves that play the critical role in making organisms different from one another.",
+            " The digital information in genomes operates across three diverse time spans: evolution (tens to millions of years), development (hours to tens of years), and physiology (milliseconds to weeks).",
+            " Development is the elaboration of an organism from a single cell (the fertilized egg) to an adult (for humans this is 10  cells of thousands of different types).",
+            " Physiology is the triggering of specific functional programmes (for example, the immune response) by environmental cues.",
+            " Regulatory networks are crucial in each of these aspects of biology.",
+            " Regulatory networks are composed of two main types of compo- nents: transcription factors and the DNA sites to which they bind in the control regions of genes, such as promoters, enhancers and silencers.",
+            " The control regions of individual genes serve as information processors to integrate the information inherent in the concentrations of different transcription factors into signals that mediate gene expression.",
+            " The collection of the transcription factors and their cognate DNA-binding sites in the control regions of genes that carry out a particular developmental or physiological function constitute these regulatory networks (Fig 2).",
+            " Because most \u2018higher\u2019 organisms or eukaryotes (organisms that contain their DNA in a cellular compartment called the nucleus), such as yeast, flies and humans, have predominantly the same families of genes, it is the reorganization of DNA-binding sites in the control regions of genes that mediate the changes in the developmen- tal programmes that distinguish one species from another.",
+            " Thus, the regulatory networks are uniquely specified by their DNA-binding sites and, accordingly, are basically digital in nature.",
+            " One thing that is striking about digital regulatory networks is that they can change significantly in short periods of evolutionary time.",
+            " This is reflected, for example, in the huge diversity of the body plans, controlled by gene regulatory networks, that emerged over perhaps 10\u201330 million years during the Cambrian explosion of metazoan organisms (about 550 million years ago).",
+            " Likewise, remarkable changes occurred to the regulatory networks driving the develop- ment of the human brain during its divergence from its common ancestor with chimpanzees about 6 million years ago.",
+            " Biology has evolved several different types of informational hier- archies.",
+            " First, a regulatory hierarchy is a gene network that defines the relationships of a set of transcription factors, their DNA-binding sites and the downstream peripheral genes that collectively control a par- ticular aspect of development.",
+            " A model of development in the sea urchin represents a striking example (Fig 2).",
+            " Second, an evolution- ary hierarchy defines an order set of relationships, arising from DNA duplication.",
+            " For example, a single gene may be duplicated to generate a multi-gene family, and a multi-gene family may be duplicated to create a supergene family.",
+            " Third, molecular machines may be assem- bled into structural hierarchies by an ordered assembly process.",
+            " One example of this is the basic transcription apparatus that involves the step-by-step recruitment of factors and enzymes that will ultimately drive the specific expression of a given gene.",
+            " A second example is pro- vided by the ribosome, the complex that translates RNA into protein, which is assembled from more than 50 different proteins and a few RNA molecules.",
+            " Finally, an informational hierarchy depicts the flow of information from a gene to environment: gene \u2192 RNA \u2192 protein \u2192 protein interactions \u2192 protein complexes \u2192 networks of protein complexes in a cell \u2192 tissues or organs \u2192 individual organisms \u2192 populations \u2192 ecosystems.",
+            " At each successively higher level in the informational hierarchy, information can be added or altered for any given element (for example, by alternative RNA splicing or protein modification)."
         ],
         "summery_parts": [
-            "The digital information in genomes operates across three diverse time spans: evolution, development and physiology.",
-            " Generation is the elaboration of an organism from a single cell to an adult.",
-            " Simulation is the triggering of specific functional programmes by environmental cues.",
-            " Computer networks are crucial in each of these aspects of biology.",
-            " In each of these aspects of biology, informational networks are composed of two main types of compo-nents: transcription factors and the DNA sites to which they bind inthe control regions of genes, such as promoters, enhancers and silencers.",
-            "."
+            "The value of having an entire genome sequence is that one can initiate the study of a biological system with a precisely definable digital core of information for that organism \u2014 a fully delineated genetic source code.",
+            " The challenge, then, is in deciphering what information is encoded within the digital code.",
+            " The genome encodes two main types of digital information \u2014 the genes that encode the protein and molecular machines of life, and the regulatory networks that specify how these genes are expressed in time, space and amplitude.",
+            " It is the evolution of the regulatory networks and not the genes themselves that play the critical role in making organisms different from one another."
         ]
     },
     {
@@ -849,12 +817,10 @@
         "parts": [
             "Systems approaches to biology."
         ],
-        "summery_parts": [
-            "."
-        ]
+        "summery_parts": []
     },
     {
-        "text": "Humans start life as a single cell \u2014 the fertilized egg \u2014 and developinto an adult with trillions of cells and thousands of cell types. Thisprocess uses two types of biological information: the digital informa-tion of the genome, and environmental information, such asmetabolite concentrations, secreted or cell-surface signals fromother cells or chemical gradients. Environmental information is oftwo distinct types: deterministic information where the conse-quences of the signals are essentially predetermined, and stochasticinformation where chance dictates the outcome.Random, or stochastic, signals can generate significant noise inbiological systems, but it is only in special cases that noise is convertedinto signals. For example, stochastic events govern many of the genet-ic mechanisms responsible for generating antibody diversity. In theimmune response, those B cells that produce antibodies that bind",
+        "text": "Humans start life as a single cell \u2014 the fertilized egg \u2014 and develop into an adult with trillions of cells and thousands of cell types. This process uses two types of biological information: the digital informa- tion of the genome, and environmental information, such as metabolite concentrations, secreted or cell-surface signals from other cells or chemical gradients. Environmental information is of two distinct types: deterministic information where the conse- quences of the signals are essentially predetermined, and stochastic information where chance dictates the outcome. Random, or stochastic, signals can generate significant noise in biological systems, but it is only in special cases that noise is converted into signals. For example, stochastic events govern many of the genet- ic mechanisms responsible for generating antibody diversity. In the immune response, those B cells that produce antibodies that bind",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -862,22 +828,21 @@
         },
         "flag": "text",
         "id": 57,
-        "summery": "This invention is a method for converting stochastic information into signals.",
+        "summery": "This process uses two types of biological information: the digital informa- tion of the genome, and environmental information, such as metabolite concentrations, secreted or cell-surface signals from other cells or chemical gradients.",
         "parts": [
-            "Humans start life as a single cell \u2014 the fertilized egg \u2014 and developinto an adult with trillions of cells and thousands of cell types.",
-            " Thisprocess uses two types of biological information: the digital informa-tion of the genome, and environmental information, such asmetabolite concentrations, secreted or cell-surface signals fromother cells or chemical gradients.",
-            " Environmental information is oftwo distinct types: deterministic information where the conse-quences of the signals are essentially predetermined, and stochasticinformation where chance dictates the outcome.",
-            "Random, or stochastic, signals can generate significant noise inbiological systems, but it is only in special cases that noise is convertedinto signals.",
-            " For example, stochastic events govern many of the genet-ic mechanisms responsible for generating antibody diversity.",
-            " In theimmune response, those B cells that produce antibodies that bind."
+            "Humans start life as a single cell \u2014 the fertilized egg \u2014 and develop into an adult with trillions of cells and thousands of cell types.",
+            " This process uses two types of biological information: the digital informa- tion of the genome, and environmental information, such as metabolite concentrations, secreted or cell-surface signals from other cells or chemical gradients.",
+            " Environmental information is of two distinct types: deterministic information where the conse- quences of the signals are essentially predetermined, and stochastic information where chance dictates the outcome.",
+            " Random, or stochastic, signals can generate significant noise in biological systems, but it is only in special cases that noise is converted into signals.",
+            " For example, stochastic events govern many of the genet- ic mechanisms responsible for generating antibody diversity.",
+            " In the immune response, those B cells that produce antibodies that bind."
         ],
         "summery_parts": [
-            "This invention is a method for converting stochastic information into signals.",
-            "."
+            "This process uses two types of biological information: the digital informa- tion of the genome, and environmental information, such as metabolite concentrations, secreted or cell-surface signals from other cells or chemical gradients."
         ]
     },
     {
-        "text": "published in 2001 by the International Human Genome SequencingConsortium (IHGSC), a publicly funded effort, and Celera, abiotechnology company, using different approaches. Both effortsused a random or shotgun approach where the original DNA to besequenced was randomly broken into overlapping fragments thatwere then cloned, and 500 base pairs (bp) were \u2018read\u2019 from one orboth ends of the clones.For the draft genome sequences, each base was read six to tentimes to optimize the accuracy of the sequence. The stretches ofDNA sequence were read by a computer and assembled into acomplete sequence. The IHGSC effort randomly cleaved DNA into ~200,000-bp fragments and generated a map of these fragmentsacross the 24 different human chromosomes; it then used theshotgun approach to sequence the pre-ordered fragments clone byclone. In contrast, Celera randomly fragmented the entire genomeinto three sizes of fragments (approximately 2,000, 10,000 and200,000 bp), sequenced both ends of the clones and then used theend sequences to assemble the entire genome sequence, withoutthe aid of a map.Celera\u2019s 1998 announcement that it would sequence the humangenome within three years was greeted with considerablescepticism, but it succeeded in producing a draft sequence andconsiderably accelerating the public effort. The efforts of bothgroups benefited science by producing draft genome sequencesconsiderably earlier than expected.Although minor differences were noted between the two drafts,the overall conclusions concerning gene numbers, repeatedsequences and chromosomal organization were remarkably similar.For example, both groups identified 30,000\u201335,000 genes, far fewerthan the 100,000 expected from an earlier (admittedly \u2018back of theenvelope\u2019) calculation.",
+        "text": "published in 2001 by the International Human Genome Sequencing Consortium (IHGSC), a publicly funded effort, and Celera, a biotechnology company, using different approaches. Both efforts used a random or shotgun approach where the original DNA to be sequenced was randomly broken into overlapping fragments that were then cloned, and 500 base pairs (bp) were \u2018read\u2019 from one or both ends of the clones. For the draft genome sequences, each base was read six to ten times to optimize the accuracy of the sequence. The stretches of DNA sequence were read by a computer and assembled into a complete sequence. The IHGSC effort randomly cleaved DNA into ~ 200,000-bp fragments and generated a map of these fragments across the 24 different human chromosomes; it then used the shotgun approach to sequence the pre-ordered fragments clone by clone. In contrast, Celera randomly fragmented the entire genome into three sizes of fragments (approximately 2,000, 10,000 and 200,000 bp), sequenced both ends of the clones and then used the end sequences to assemble the entire genome sequence, without the aid of a map. Celera\u2019s 1998 announcement that it would sequence the human genome within three years was greeted with considerable scepticism, but it succeeded in producing a draft sequence and considerably accelerating the public effort. The efforts of both groups benefited science by producing draft genome sequences considerably earlier than expected. Although minor differences were noted between the two drafts, the overall conclusions concerning gene numbers, repeated sequences and chromosomal organization were remarkably similar. For example, both groups identified 30,000\u201335,000 genes, far fewer than the 100,000 expected from an earlier (admittedly \u2018back of the envelope\u2019) calculation.",
         "style": {
             "font": "HelveticaNeue-Light",
             "size": 7.599999904632568,
@@ -887,7 +852,7 @@
         "id": 58
     },
     {
-        "text": "Box 1Sequencing the human genome",
+        "text": "Box 1 Sequencing the human genome",
         "style": {
             "font": "HelveticaNeue-Thin",
             "size": 7.8379998207092285,
@@ -897,7 +862,7 @@
         "id": 59
     },
     {
-        "text": "\u00a9 2003 Nature Publishing Group",
+        "text": "\u00a9  2003 Nature Publishing Group",
         "style": {
             "font": "Helvetica-Bold",
             "size": 7.0,
@@ -930,7 +895,7 @@
         "id": 62
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -940,7 +905,7 @@
         "id": 63
     },
     {
-        "text": " VOL 421",
+        "text": "VOL 421",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -950,7 +915,7 @@
         "id": 64
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -960,7 +925,7 @@
         "id": 65
     },
     {
-        "text": " 23 JANUARY 2003",
+        "text": "23 JANUARY 2003",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -970,7 +935,7 @@
         "id": 66
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -980,7 +945,7 @@
         "id": 67
     },
     {
-        "text": " www.nature.com/nature",
+        "text": "www.nature.com/nature",
         "style": {
             "font": "Minion-Regular",
             "size": 6.650000095367432,
@@ -1000,7 +965,7 @@
         "id": 69
     },
     {
-        "text": "tightly to the antigen (that is, those having high affinities) undergo anexpansion in number that is proportional to the strength of the antibody affinity (see article in this issue by Nossal, page 440). Hence,the signal (high affinity) is distinguished from the noise (low affini-ty). Moreover, high levels of mutation in the B cells causes specificdiversification of antibody genes in the presence of antigen and permits the affinity to increase even more. The cells carrying thehigher-affinity antibody genes are then preferentially selected forsurvival and proliferation. The key question is what and how much signal emerges from thenoise. Analysis of stochastic events and the differentiation betweensignal and noise will be a future challenge for contemporary biology. The immune response has been studied for more than 100 years, yet we still have only a partial understanding of its systemsproperties, such as the immune response and tolerance (the unre-sponsiveness to one\u2019s own cells). This is because until recently immu-nologists have been able to study this complex system only one geneor one protein at a time.The systems approach permits the study of all elements in a sys-tem in response to genetic (digital) or environmental perturbations.Global quantitative analyses of biological information from differentlevels each provide new insights into the operation of the system;hence, information at as many levels as possible must be captured,integrated, and ultimately, modelled mathematically. The modelshould explain the properties of the system and establish a framework that allows us to redesign the system in a rational way togenerate new emergent properties.Several systems have been explored successfully. The utilization ofthe sugar galactose in yeast has been analysed using genetic perturba-tions (inactivation of genes) and four levels of information weregathered \u2014 RNA and protein concentrations as well as protein\u2013protein and protein\u2013DNA interactions. Using an iterative and integrative systems approach, new insights into the regulation ofgalactose use were gained. Moreover, the relationships of the galactose regulatory network to other modules in the yeast cell werealso delineated. Likewise, systems approaches to early embryonic",
+        "text": "tightly to the antigen (that is, those having high affinities) undergo an expansion in number that is proportional to the strength of the antibody affinity (see article in this issue by Nossal, page 440). Hence, the signal (high affinity) is distinguished from the noise (low affini- ty). Moreover, high levels of mutation in the B cells causes specific diversification of antibody genes in the presence of antigen and permits the affinity to increase even more. The cells carrying the higher-affinity antibody genes are then preferentially selected for survival and proliferation. The key question is what and how much signal emerges from the noise. Analysis of stochastic events and the differentiation between signal and noise will be a future challenge for contemporary biology. The immune response has been studied for more than 100 years, yet we still have only a partial understanding of its systems properties, such as the immune response and tolerance (the unre- sponsiveness to one\u2019s own cells). This is because until recently immu- nologists have been able to study this complex system only one gene or one protein at a time. The systems approach permits the study of all elements in a sys- tem in response to genetic (digital) or environmental perturbations. Global quantitative analyses of biological information from different levels each provide new insights into the operation of the system; hence, information at as many levels as possible must be captured, integrated, and ultimately, modelled mathematically. The model should explain the properties of the system and establish a framework that allows us to redesign the system in a rational way to generate new emergent properties. Several systems have been explored successfully. The utilization of the sugar galactose in yeast has been analysed using genetic perturba- tions (inactivation of genes) and four levels of information were gathered \u2014 RNA and protein concentrations as well as protein\u2013 protein and protein\u2013DNA interactions . Using an iterative and integrative systems approach, new insights into the regulation of galactose use were gained. Moreover, the relationships of the galactose regulatory network to other modules in the yeast cell were also delineated. Likewise, systems approaches to early embryonic",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -1008,32 +973,31 @@
         },
         "flag": "text",
         "id": 70,
-        "summery": "The sugar galactose in yeast has been analysed using genetic inactivation of genes and four levels of information weregathered \u2014 RNA and protein concentrations as well as protein\u2013protein and protein\u2013protein interactions.",
+        "summery": "An iterative and integrative systems approach permits the study of all elements in a sys- tem in response to genetic or environmental perturbations.",
         "parts": [
-            "tightly to the antigen (that is, those having high affinities) undergo anexpansion in number that is proportional to the strength of the antibody affinity (see article in this issue by Nossal, page 440).",
-            " Hence,the signal (high affinity) is distinguished from the noise (low affini-ty).",
-            " Moreover, high levels of mutation in the B cells causes specificdiversification of antibody genes in the presence of antigen and permits the affinity to increase even more.",
-            " The cells carrying thehigher-affinity antibody genes are then preferentially selected forsurvival and proliferation.",
-            " The key question is what and how much signal emerges from thenoise.",
-            " Analysis of stochastic events and the differentiation betweensignal and noise will be a future challenge for contemporary biology.",
-            " The immune response has been studied for more than 100 years, yet we still have only a partial understanding of its systemsproperties, such as the immune response and tolerance (the unre-sponsiveness to one\u2019s own cells).",
-            " This is because until recently immu-nologists have been able to study this complex system only one geneor one protein at a time.",
-            "The systems approach permits the study of all elements in a sys-tem in response to genetic (digital) or environmental perturbations.",
-            "Global quantitative analyses of biological information from differentlevels each provide new insights into the operation of the system;hence, information at as many levels as possible must be captured,integrated, and ultimately, modelled mathematically.",
-            " The modelshould explain the properties of the system and establish a framework that allows us to redesign the system in a rational way togenerate new emergent properties.",
-            "Several systems have been explored successfully.",
-            " The utilization ofthe sugar galactose in yeast has been analysed using genetic perturba-tions (inactivation of genes) and four levels of information weregathered \u2014 RNA and protein concentrations as well as protein\u2013protein and protein\u2013DNA interactions.",
-            " Using an iterative and integrative systems approach, new insights into the regulation ofgalactose use were gained.",
-            " Moreover, the relationships of the galactose regulatory network to other modules in the yeast cell werealso delineated.",
+            "tightly to the antigen (that is, those having high affinities) undergo an expansion in number that is proportional to the strength of the antibody affinity (see article in this issue by Nossal, page 440).",
+            " Hence, the signal (high affinity) is distinguished from the noise (low affini- ty).",
+            " Moreover, high levels of mutation in the B cells causes specific diversification of antibody genes in the presence of antigen and permits the affinity to increase even more.",
+            " The cells carrying the higher-affinity antibody genes are then preferentially selected for survival and proliferation.",
+            " The key question is what and how much signal emerges from the noise.",
+            " Analysis of stochastic events and the differentiation between signal and noise will be a future challenge for contemporary biology.",
+            " The immune response has been studied for more than 100 years, yet we still have only a partial understanding of its systems properties, such as the immune response and tolerance (the unre- sponsiveness to one\u2019s own cells).",
+            " This is because until recently immu- nologists have been able to study this complex system only one gene or one protein at a time.",
+            " The systems approach permits the study of all elements in a sys- tem in response to genetic (digital) or environmental perturbations.",
+            " Global quantitative analyses of biological information from different levels each provide new insights into the operation of the system; hence, information at as many levels as possible must be captured, integrated, and ultimately, modelled mathematically.",
+            " The model should explain the properties of the system and establish a framework that allows us to redesign the system in a rational way to generate new emergent properties.",
+            " Several systems have been explored successfully.",
+            " The utilization of the sugar galactose in yeast has been analysed using genetic perturba- tions (inactivation of genes) and four levels of information were gathered \u2014 RNA and protein concentrations as well as protein\u2013 protein and protein\u2013DNA interactions .",
+            " Using an iterative and integrative systems approach, new insights into the regulation of galactose use were gained.",
+            " Moreover, the relationships of the galactose regulatory network to other modules in the yeast cell were also delineated.",
             " Likewise, systems approaches to early embryonic."
         ],
         "summery_parts": [
-            "The sugar galactose in yeast has been analysed using genetic inactivation of genes and four levels of information weregathered \u2014 RNA and protein concentrations as well as protein\u2013protein and protein\u2013protein interactions.",
-            "."
+            "An iterative and integrative systems approach permits the study of all elements in a sys- tem in response to genetic or environmental perturbations."
         ]
     },
     {
-        "text": "BraDCEBUI RABpOtx ZSpGCF1100 bpCGPCY CB CBFG(\u20132,300)Module BModule ABPCY CB1CB2CG1CG2CG3CG4UIRPOTXZSPGCF1i1i2i3i5i4i6i7i10i9i11i12F,E, DCi8Apo becFoxAGataEFoxBUIMesodermEndodermKrox",
+        "text": "Bra DC E B UI R A Bp Otx Z SpGCF1 100 bp CG P CY CB CB F G (\u20132,300) Module B Module A BP CY CB1 CB2 CG1 CG2 CG3 CG4 UI R P OTXZ SPGCF1 i1 i2 i3 i5 i4 i6 i7 i10 i9 i11 i12 F,E, DC i8 Apo bec FoxA GataE FoxB UI Mesoderm Endoderm Krox",
         "style": {
             "font": "HelveticaNeue-Roman",
             "size": 6.698999881744385,
@@ -1043,7 +1007,7 @@
         "id": 71
     },
     {
-        "text": "\u03b2\u03b1",
+        "text": "\u03b2 \u03b1",
         "style": {
             "font": "Symbol",
             "size": 5.742000102996826,
@@ -1063,7 +1027,7 @@
         "id": 73
     },
     {
-        "text": "Rep. of Wnt8(18 h)",
+        "text": "Rep. of Wnt8 (18 h)",
         "style": {
             "font": "HelveticaNeue-Roman",
             "size": 5.742000102996826,
@@ -1073,7 +1037,7 @@
         "id": 74
     },
     {
-        "text": "Hox11/13bEveElkHmxGataCGcmDeltaE(S)?Su(H)+NNotchNrlNotZyg. N.Mat. N.Wnt8Kakapo OrCTGelsolinEndoEndo16abc",
+        "text": "Hox11/13b Eve Elk Hmx GataC Gcm Delta E(S)? Su(H)+N Notch Nrl Not Zyg. N. Mat. N. Wnt8 Kakapo OrCT Gelsolin Endo Endo16 a b c",
         "style": {
             "font": "HelveticaNeue-Roman",
             "size": 6.698999881744385,
@@ -1093,7 +1057,7 @@
         "id": 76
     },
     {
-        "text": "GSK-3LiC1n\u03b2-TCFc\u03b2i1",
+        "text": "GSK-3 LiC1 n \u03b2 -TCF c \u03b2 i1",
         "style": {
             "font": "HelveticaNeue-Roman",
             "size": 6.698999881744385,
@@ -1103,7 +1067,7 @@
         "id": 77
     },
     {
-        "text": "Figure 2 A gene regulatorynetwork involved in sea urchindevelopment",
+        "text": "Figure 2 A gene regulatory network involved in sea urchin development",
         "style": {
             "font": "HelveticaNeue-BoldCond",
             "size": 7.599999904632568,
@@ -1123,7 +1087,7 @@
         "id": 79
     },
     {
-        "text": ". a, Part of thenetwork of transcription factorsand their interactions with thecontrol regions of othertranscription factors. Genes areindicated by horizontal lines;arrowheads indicate activation; \u2018\u22a5\u2019symbols indicate gene repression.b, An enlargement of the promoterregion of a gene, called endo 16,that helps modulate thedevelopment of the endoderm. Itcontains 34 binding sites(rectangles) for 13 differenttranscription factors and cofactors(illustrated as rectangles orlollipops, respectively). Sixmodules (A\u2013G) of transcriptionfactors and binding sites carry outdiscrete functions todevelopmentally regulate endo 16.c, Diagram depicting the logicalstructures of the A and B controlcircuits during sea urchindevelopment.",
+        "text": ". a , Part of the network of transcription factors and their interactions with the control regions of other transcription factors. Genes are indicated by horizontal lines; arrowheads indicate activation; \u2018 \u22a5 \u2019 symbols indicate gene repression. b , An enlargement of the promoter region of a gene, called endo 16, that helps modulate the development of the endoderm. It contains 34 binding sites (rectangles) for 13 different transcription factors and cofactors (illustrated as rectangles or lollipops, respectively). Six modules (A\u2013G) of transcription factors and binding sites carry out discrete functions to developmentally regulate endo 16. c , Diagram depicting the logical structures of the A and B control circuits during sea urchin development.",
         "style": {
             "font": "HelveticaNeue-LightCond",
             "size": 7.599999904632568,
@@ -1133,7 +1097,7 @@
         "id": 80
     },
     {
-        "text": "\u00a9 2003 Nature Publishing Group",
+        "text": "\u00a9  2003 Nature Publishing Group",
         "style": {
             "font": "Helvetica-Bold",
             "size": 7.0,
@@ -1176,7 +1140,7 @@
         "id": 84
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -1186,7 +1150,7 @@
         "id": 85
     },
     {
-        "text": " VOL 421",
+        "text": "VOL 421",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -1196,7 +1160,7 @@
         "id": 86
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -1206,7 +1170,7 @@
         "id": 87
     },
     {
-        "text": " 23 JANUARY 2003",
+        "text": "23 JANUARY 2003",
         "style": {
             "font": "Minion-Regular",
             "size": 6.4120001792907715,
@@ -1216,7 +1180,7 @@
         "id": 88
     },
     {
-        "text": " |",
+        "text": "|",
         "style": {
             "font": "Helvetica-Light",
             "size": 6.032313346862793,
@@ -1226,7 +1190,7 @@
         "id": 89
     },
     {
-        "text": " www.nature.com/nature",
+        "text": "www.nature.com/nature",
         "style": {
             "font": "Minion-Regular",
             "size": 6.650000095367432,
@@ -1236,7 +1200,7 @@
         "id": 90
     },
     {
-        "text": "development in the sea urchin have delineated a regulatory networkthat has significant predictive power (Fig. 2). Finally, systemsapproaches to metabolism in an archaeal halobacterium (an organ-ism thriving in up to five-molar salt solutions, such as the Dead Sea)have revealed new insights into the inter-relationships among severalmodules controlling energy production in the cell.The study of cellular and organismal biology using the systemsapproach is at its very beginning. It will require integrated teams ofscientists from across disciplines \u2014 biologists, chemists, computerscientists, engineers, mathematicians and physicists. New methodsfor acquiring and analysing high-throughput biological data areneeded. A powerful computational infrastructure must be leveragedto generate more effective approaches to the capture, storage, analy-sis, integration, graphical display and mathematic formulation ofbiological complexity. New technologies must be integrated witheach other. Finally, hypothesis-driven and discovery science must beintegrated. In short, both new science and technology must emerge for the systems biology approach to realize its promise. A cultural shift in the biological sciences is needed, and the educationand training of the next generation of biologists will require significant reform.Gordon Moore, the founder of Intel, predicted that the number oftransistors that could be placed on a computer chip would doubleevery 18 months. It has for more than 30 years. This exponentialgrowth has been a driver for the explosive growth of informationtechnology. Likewise, the amount of DNA sequence informationavailable to the scientific community is following a similar, perhapseven steeper, exponential increase. The critical issue is how sequenceinformation can be converted into knowledge of the organism andhow biology will change as a result. We believe that a systemsapproach to biology is the key. It is clear, however, that this approachposes significant challenges, both scientific and cultural. The discovery of DNA structure started us on this journey, the end ofwhich will be the grand unification of the biological sciences in theemerging, information-based view of biology.",
+        "text": "development in the sea urchin have delineated a regulatory network that has significant predictive power  (Fig. 2). Finally, systems approaches to metabolism in an archaeal halobacterium (an organ- ism thriving in up to five-molar salt solutions, such as the Dead Sea) have revealed new insights into the inter-relationships among several modules controlling energy production in the cell . The study of cellular and organismal biology using the systems approach is at its very beginning. It will require integrated teams of scientists from across disciplines \u2014 biologists, chemists, computer scientists, engineers, mathematicians and physicists. New methods for acquiring and analysing high-throughput biological data are needed. A powerful computational infrastructure must be leveraged to generate more effective approaches to the capture, storage, analy- sis, integration, graphical display and mathematic formulation of biological complexity. New technologies must be integrated with each other. Finally, hypothesis-driven and discovery science must be integrated. In short, both new science and technology must emerge for the systems biology approach to realize its promise. A cultural shift in the biological sciences is needed, and the education and training of the next generation of biologists will require significant reform. Gordon Moore, the founder of Intel, predicted that the number of transistors that could be placed on a computer chip would double every 18 months. It has for more than 30 years. This exponential growth has been a driver for the explosive growth of information technology. Likewise, the amount of DNA sequence information available to the scientific community is following a similar, perhaps even steeper, exponential increase. The critical issue is how sequence information can be converted into knowledge of the organism and how biology will change as a result. We believe that a systems approach to biology is the key. It is clear, however, that this approach poses significant challenges, both scientific and cultural . The discovery of DNA structure started us on this journey, the end of which will be the grand unification of the biological sciences in the emerging, information-based view of biology.",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -1244,36 +1208,33 @@
         },
         "flag": "text",
         "id": 91,
-        "summery": "New methods for acquiring and analysing high-throughput biological data areneeded. A powerful computational infrastructure must be leveragedto generate more effective approaches to the capture, storage, analy-sis, integration, graphical display and mathematic formulation of biological complexity.",
+        "summery": "The study of cellular and organismal biology using the systems approach is at its very beginning.",
         "parts": [
-            "development in the sea urchin have delineated a regulatory networkthat has significant predictive power (Fig 2).",
-            " Finally, systemsapproaches to metabolism in an archaeal halobacterium (an organ-ism thriving in up to five-molar salt solutions, such as the Dead Sea)have revealed new insights into the inter-relationships among severalmodules controlling energy production in the cell.",
-            "The study of cellular and organismal biology using the systemsapproach is at its very beginning.",
-            " It will require integrated teams ofscientists from across disciplines \u2014 biologists, chemists, computerscientists, engineers, mathematicians and physicists.",
-            " New methodsfor acquiring and analysing high-throughput biological data areneeded.",
-            " A powerful computational infrastructure must be leveragedto generate more effective approaches to the capture, storage, analy-sis, integration, graphical display and mathematic formulation ofbiological complexity.",
-            " New technologies must be integrated witheach other.",
-            " Finally, hypothesis-driven and discovery science must beintegrated.",
+            "development in the sea urchin have delineated a regulatory network that has significant predictive power  (Fig 2).",
+            " Finally, systems approaches to metabolism in an archaeal halobacterium (an organ- ism thriving in up to five-molar salt solutions, such as the Dead Sea) have revealed new insights into the inter-relationships among several modules controlling energy production in the cell .",
+            " The study of cellular and organismal biology using the systems approach is at its very beginning.",
+            " It will require integrated teams of scientists from across disciplines \u2014 biologists, chemists, computer scientists, engineers, mathematicians and physicists.",
+            " New methods for acquiring and analysing high-throughput biological data are needed.",
+            " A powerful computational infrastructure must be leveraged to generate more effective approaches to the capture, storage, analy- sis, integration, graphical display and mathematic formulation of biological complexity.",
+            " New technologies must be integrated with each other.",
+            " Finally, hypothesis-driven and discovery science must be integrated.",
             " In short, both new science and technology must emerge for the systems biology approach to realize its promise.",
-            " A cultural shift in the biological sciences is needed, and the educationand training of the next generation of biologists will require significant reform.",
-            "Gordon Moore, the founder of Intel, predicted that the number oftransistors that could be placed on a computer chip would doubleevery 18 months.",
+            " A cultural shift in the biological sciences is needed, and the education and training of the next generation of biologists will require significant reform.",
+            " Gordon Moore, the founder of Intel, predicted that the number of transistors that could be placed on a computer chip would double every 18 months.",
             " It has for more than 30 years.",
-            " This exponentialgrowth has been a driver for the explosive growth of informationtechnology.",
-            " Likewise, the amount of DNA sequence informationavailable to the scientific community is following a similar, perhapseven steeper, exponential increase.",
-            " The critical issue is how sequenceinformation can be converted into knowledge of the organism andhow biology will change as a result.",
-            " We believe that a systemsapproach to biology is the key.",
-            " It is clear, however, that this approachposes significant challenges, both scientific and cultural.",
-            " The discovery of DNA structure started us on this journey, the end ofwhich will be the grand unification of the biological sciences in theemerging, information-based view of biology.",
-            "."
+            " This exponential growth has been a driver for the explosive growth of information technology.",
+            " Likewise, the amount of DNA sequence information available to the scientific community is following a similar, perhaps even steeper, exponential increase.",
+            " The critical issue is how sequence information can be converted into knowledge of the organism and how biology will change as a result.",
+            " We believe that a systems approach to biology is the key.",
+            " It is clear, however, that this approach poses significant challenges, both scientific and cultural .",
+            " The discovery of DNA structure started us on this journey, the end of which will be the grand unification of the biological sciences in the emerging, information-based view of biology."
         ],
         "summery_parts": [
-            "New methods for acquiring and analysing high-throughput biological data areneeded.",
-            " A powerful computational infrastructure must be leveragedto generate more effective approaches to the capture, storage, analy-sis, integration, graphical display and mathematic formulation of biological complexity.",
-            "."
+            "The study of cellular and organismal biology using the systems approach is at its very beginning."
         ]
     },
     {
-        "text": "doi:10.1038/nature014101. Watson, J. D. & Crick, F. H. C. A structure for deoxyribose nucleic acid. Nature 171, 737\u2013738 (1953).2. Brenner, S., Jacob, F. & Meselson, M. An unstable intermediate carrying information from genes toribosomes for protein synthesis. Nature 190, 576\u2013581 (1961).3. Crick, F. H. C., Barnett, L., Brenner, S. & Watts-Tobin, R. J. General nature of the genetic code forproteins. Nature 192, 1227\u20131232 (1961).4. Nirenberg, M. W. & Matthaei, J. H. The dependence of cell-free protein synthesis in E. coli uponnaturally occurring or synthetic polynucleotides. Proc. Natl Acad. Sci. USA 47, 1588\u20131602(1961).5. Saiki, R. K. et al. Enzymatic amplification of b-globin sequences and restriction site analysis fordiagnosis of sickle cell anemia. Science 230, 1350\u20131354 (1985).6. Maxam, A. M. & Gilbert, W. A new method of sequencing DNA. Proc. Natl Acad. Sci. USA 74,560\u2013564 (1977).7. Sanger, F. & Coulson, A. R. A rapid method for determining sequences in DNA by primed synthesiswith DNA polymerase. J. Mol. Biol. 94, 444\u2013448 (1975).8. Sanger, F. et al. Nucleotide sequence of bacteriophage fX174. Nature 265, 678\u2013695 (1977).9. Hunkapiller, M. W. & Hood, L. New protein sequenator with increased sensitivity. Science 207,523\u2013525 (1980).10.Horvath, S. J., Firca, J. R., Hunkapiller, T., Hunkapiller M. W. & Hood. L. An automated DNAsynthesizer employing deoxynucleoside 38 phosphoramidites. Methods Enzymol. 154, 314\u2013326(1987).11.Kent, S. B. H., Hood, L. E., Beilan, H., Meister S. & Geiser, T. High yield chemical synthesis ofbiologically active peptides on an automated peptide synthesizer of novel design. Peptides 5, 185\u2013188(1984).12.Smith, L. M. et al. Fluorescence detection in automated DNA sequence analysis. Nature 321, 674\u2013679(1986).13.Collins, F. & Galas, D. J. A new five-year plan for the US Human Genome Project. Science 262, 43\u201346(1993).14.Venter, J. C. et al. The sequence of the human genome. Science 291, 1304\u20131351 (2001).15.International Human Genome Sequencing Consortium. Initial sequencing and analysis of the humangenome. Nature 409, 860\u2013921 (2001).16.Davidson, E. H. et al. A genomic regulatory network for development. Science 295, 1669\u20131678 (2002).17.Ideker, T. et al. Integrated genomic and proteomic analyses of a systematically perturbed metabolicnetwork. Science 292, 929\u2013933 (2001).18.Baliga, N. S. et al. Coordinate regulators of energy transduction modules in the Halobacterium sp.analyzed by a global systems approach. Proc. Natl Acad. Sci. USA 99, 14913\u201314918 (2002).19.Aderem A. & Hood, L. Immunology in the post-genomic era. Nature Immunol. 2, 1\u20133 (2001).20.Dennis, C. & Gallagher, R. (eds) The Human Genome (Palgrave, Basingstoke, 2001).",
+        "text": "doi:10.1038/nature01410 1. Watson, J. D. & Crick, F. H. C. A structure for deoxyribose nucleic acid. Nature 171, 737\u2013738 (1953). 2. Brenner, S., Jacob, F. & Meselson, M. An unstable intermediate carrying information from genes to ribosomes for protein synthesis. Nature 190, 576\u2013581 (1961). 3. Crick, F. H. C., Barnett, L., Brenner, S. & Watts-Tobin, R. J. General nature of the genetic code for proteins. Nature 192, 1227\u20131232 (1961). 4. Nirenberg, M. W. & Matthaei, J. H. The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polynucleotides. Proc. Natl Acad. Sci. USA 47, 1588\u20131602 (1961). 5. Saiki, R. K. et al. Enzymatic amplification of b -globin sequences and restriction site analysis for diagnosis of sickle cell anemia. Science 230, 1350\u20131354 (1985). 6. Maxam, A. M. & Gilbert, W. A new method of sequencing DNA. Proc. Natl Acad. Sci. USA 74, 560\u2013564 (1977). 7. Sanger, F. & Coulson, A. R. A rapid method for determining sequences in DNA by primed synthesis with DNA polymerase. J. Mol. Biol. 94, 444\u2013448 (1975). 8. Sanger, F. et al. Nucleotide sequence of bacteriophage f X174. Nature 265, 678\u2013695 (1977). 9. Hunkapiller, M. W. & Hood, L. New protein sequenator with increased sensitivity. Science 207, 523\u2013525 (1980). 10.Horvath, S. J., Firca, J. R., Hunkapiller, T., Hunkapiller M. W. & Hood. L. An automated DNA synthesizer employing deoxynucleoside 3 8 phosphoramidites. Methods Enzymol. 154, 314\u2013326 (1987). 11.Kent, S. B. H., Hood, L. E., Beilan, H., Meister S. & Geiser, T. High yield chemical synthesis of biologically active peptides on an automated peptide synthesizer of novel design. Peptides 5, 185\u2013188 (1984). 12.Smith, L. M. et al. Fluorescence detection in automated DNA sequence analysis. Nature 321, 674\u2013679 (1986). 13.Collins, F. & Galas, D. J. A new five-year plan for the US Human Genome Project. Science 262, 43\u201346 (1993). 14.Venter, J. C. et al. The sequence of the human genome. Science 291, 1304\u20131351 (2001). 15.International Human Genome Sequencing Consortium. Initial sequencing and analysis of the human genome. Nature 409, 860\u2013921 (2001). 16.Davidson, E. H. et al. A genomic regulatory network for development. Science 295, 1669\u20131678 (2002). 17.Ideker, T. et al. Integrated genomic and proteomic analyses of a systematically perturbed metabolic network. Science 292, 929\u2013933 (2001). 18.Baliga, N. S. et al. Coordinate regulators of energy transduction modules in the Halobacterium sp. analyzed by a global systems approach. Proc. Natl Acad. Sci. USA 99, 14913\u201314918 (2002). 19.Aderem A. & Hood, L. Immunology in the post-genomic era. Nature Immunol. 2, 1\u20133 (2001). 20.Dennis, C. & Gallagher, R. (eds) The Human Genome (Palgrave, Basingstoke, 2001).",
         "style": {
             "font": "Minion-Regular",
             "size": 5.699999809265137,
@@ -1312,12 +1273,10 @@
         "parts": [
             "Gary Felsenfeld & Mark Groudine."
         ],
-        "summery_parts": [
-            "."
-        ]
+        "summery_parts": []
     },
     {
-        "text": "*Laboratory of Molecular Biology, National Institute of Diabetes and Digestiveand Kidney Diseases, National Institutes of Health, Building 5, Room 212,Bethesda, Maryland 20892-0540, USA (e-mail: gary.felsenfeld@nih.gov)\u2020Division of Basic Sciences, Fred Hutchinson Cancer Research Center, 1100Fairview Avenue North, Seattle, Washington 98109, and Department ofRadiation Oncology, University of Washington School of Medicine, Seattle,Washington 98195, USA (e-mail: markg@fhcrc.org)",
+        "text": "* Laboratory of Molecular Biology, National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Building 5, Room 212, Bethesda, Maryland 20892-0540, USA (e-mail: gary.felsenfeld@nih.gov) \u2020 Division of Basic Sciences, Fred Hutchinson Cancer Research Center, 1100 Fairview Avenue North, Seattle, Washington 98109, and Department of Radiation Oncology, University of Washington School of Medicine, Seattle, Washington 98195, USA (e-mail: markg@fhcrc.org)",
         "style": {
             "font": "Minion-Regular",
             "size": 7.599999904632568,
@@ -1327,7 +1286,7 @@
         "id": 95
     },
     {
-        "text": "Chromatin is the complex of DNA and proteins in which thegenetic material is packaged inside the cells of organismswith nuclei. Chromatin structure is dynamic and exertsprofound control over gene expression and otherfundamental cellular processes. Changes in its structure canbe inherited by the next generation, independent of the DNAsequence itself.",
+        "text": "Chromatin is the complex of DNA and proteins in which the genetic material is packaged inside the cells of organisms with nuclei. Chromatin structure is dynamic and exerts profound control over gene expression and other fundamental cellular processes. Changes in its structure can be inherited by the next generation, independent of the DNA sequence itself.",
         "style": {
             "font": "HelveticaNeue-BoldCond",
             "size": 9.5,
@@ -1335,20 +1294,18 @@
         },
         "flag": "small",
         "id": 96,
-        "summery": "Chromatin is the complex of DNA and proteins in which thegenetic material is packaged inside the cells of organisms with nuclei.",
+        "summery": "Chromatin is the complex of DNA and proteins in which the genetic material is packaged inside cells of organisms with nuclei.",
         "parts": [
-            "Chromatin is the complex of DNA and proteins in which thegenetic material is packaged inside the cells of organismswith nuclei.",
-            " Chromatin structure is dynamic and exertsprofound control over gene expression and otherfundamental cellular processes.",
-            " Changes in its structure canbe inherited by the next generation, independent of the DNAsequence itself.",
-            "."
+            "Chromatin is the complex of DNA and proteins in which the genetic material is packaged inside the cells of organisms with nuclei.",
+            " Chromatin structure is dynamic and exerts profound control over gene expression and other fundamental cellular processes.",
+            " Changes in its structure can be inherited by the next generation, independent of the DNA sequence itself."
         ],
         "summery_parts": [
-            "Chromatin is the complex of DNA and proteins in which thegenetic material is packaged inside the cells of organisms with nuclei.",
-            "."
+            "Chromatin is the complex of DNA and proteins in which the genetic material is packaged inside cells of organisms with nuclei."
         ]
     },
     {
-        "text": "Genes were first shown to be made of DNA only nineyears before the structure of DNA was discovered (ref. 1; and see article in this issue by McCarty, page 406). Although revolutionary, the idea thatgenetic information was protein-free ultimately provedtoo simple. DNA in organisms with nuclei is in fact coated with atleast an equal mass of protein, forming a complex calledchromatin, which controls gene activity and the inheritance oftraits.\u2018Higher\u2019 organisms, such as yeast and humans, are eukaryotes;that is, they package their DNA inside cells in a separate compart-ment called the nucleus. In dividing cells, the chromatin complex ofDNA and protein can be seen as individual compact chromosomes;in non-dividing cells, chromatin appears to be distributed throughout the nucleus and organized into \u2018condensed\u2019 regions (heterochromatin) and more open \u2018euchromatin\u2019 (see article in thisissue by Ball, page 421). In contrast, prokaryotes, such as bacteria,lack nuclei.",
+        "text": "Genes were first shown to be made of DNA only nine years before the structure of DNA was discovered (ref. 1; and see article in this issue by McCarty, page 406). Although revolutionary, the idea that genetic information was protein-free ultimately proved too simple. DNA in organisms with nuclei is in fact coated with at least an equal mass of protein, forming a complex called chromatin, which controls gene activity and the inheritance of traits. \u2018Higher\u2019 organisms, such as yeast and humans, are eukaryotes; that is, they package their DNA inside cells in a separate compart- ment called the nucleus. In dividing cells, the chromatin complex of DNA and protein can be seen as individual compact chromosomes; in non-dividing cells, chromatin appears to be distributed throughout the nucleus and organized into \u2018condensed\u2019 regions (heterochromatin) and more open \u2018euchromatin\u2019 (see article in this issue by Ball, page 421). In contrast, prokaryotes, such as bacteria, lack nuclei.",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -1356,19 +1313,17 @@
         },
         "flag": "text",
         "id": 97,
-        "summery": "DNA in organisms with nuclei is in fact coated with atleast an equal mass of protein, forming a complex calledchromatin, which controls gene activity and the inheritance of DNA.",
+        "summery": "A prokaryote, such as a bacteria, lacking nuclei and having a complex of DNA and protein called chromatin, which controls gene activity and the inheritance of traits.",
         "parts": [
-            "Genes were first shown to be made of DNA only nineyears before the structure of DNA was discovered (ref 1; and see article in this issue by McCarty, page 406).",
-            " Although revolutionary, the idea thatgenetic information was protein-free ultimately provedtoo simple.",
-            " DNA in organisms with nuclei is in fact coated with atleast an equal mass of protein, forming a complex calledchromatin, which controls gene activity and the inheritance oftraits.",
-            "\u2018Higher\u2019 organisms, such as yeast and humans, are eukaryotes;that is, they package their DNA inside cells in a separate compart-ment called the nucleus.",
-            " In dividing cells, the chromatin complex ofDNA and protein can be seen as individual compact chromosomes;in non-dividing cells, chromatin appears to be distributed throughout the nucleus and organized into \u2018condensed\u2019 regions (heterochromatin) and more open \u2018euchromatin\u2019 (see article in thisissue by Ball, page 421).",
-            " In contrast, prokaryotes, such as bacteria,lack nuclei.",
-            "."
+            "Genes were first shown to be made of DNA only nine years before the structure of DNA was discovered (ref 1; and see article in this issue by McCarty, page 406).",
+            " Although revolutionary, the idea that genetic information was protein-free ultimately proved too simple.",
+            " DNA in organisms with nuclei is in fact coated with at least an equal mass of protein, forming a complex called chromatin, which controls gene activity and the inheritance of traits.",
+            " \u2018Higher\u2019 organisms, such as yeast and humans, are eukaryotes; that is, they package their DNA inside cells in a separate compart- ment called the nucleus.",
+            " In dividing cells, the chromatin complex of DNA and protein can be seen as individual compact chromosomes; in non-dividing cells, chromatin appears to be distributed throughout the nucleus and organized into \u2018condensed\u2019 regions (heterochromatin) and more open \u2018euchromatin\u2019 (see article in this issue by Ball, page 421).",
+            " In contrast, prokaryotes, such as bacteria, lack nuclei."
         ],
         "summery_parts": [
-            "DNA in organisms with nuclei is in fact coated with atleast an equal mass of protein, forming a complex calledchromatin, which controls gene activity and the inheritance of DNA.",
-            "."
+            "A prokaryote, such as a bacteria, lacking nuclei and having a complex of DNA and protein called chromatin, which controls gene activity and the inheritance of traits."
         ]
     },
     {
@@ -1384,12 +1339,10 @@
         "parts": [
             "The evolution of chromatin."
         ],
-        "summery_parts": [
-            "."
-        ]
+        "summery_parts": []
     },
     {
-        "text": "The principal protein components of chromatin are proteins calledhistones (Fig. 1). Core histones are among the most highly conservedeukaryotic proteins known, suggesting that the fundamental struc-ture of chromatin evolved in a common ancestor of eukaryotes.Moreover, histone equivalents and a simplified chromatin structurehave also been found in single-cell organisms from the kingdomArchaeabacteria.Because there is more DNA in a eukaryote than in a prokaryote, itwas naturally first assumed that the purpose of histones was to compress the DNA to fit within the nucleus. But subsequent researchhas dramatically revised the view that histones emerged as an afterthought, forced on eukaryotic DNA as a consequence of largegenome size and the constraints of the nucleus.It was known that different genes are active in different tissues,and the distinction of heterochromatin and euchromatin suggestedthat differences in chromatin structure were associated with differences in gene expression. This led to the early supposition thatthe histones were also repressor proteins designed to shut offunwanted expression. The available evidence, although rudimenta-ry, does indeed suggest that archaeal histones are not merely packaging factors, but function to regulate gene expression. They",
+        "text": "The principal protein components of chromatin are proteins called histones (Fig. 1). Core histones are among the most highly conserved eukaryotic proteins known, suggesting that the fundamental struc- ture of chromatin evolved in a common ancestor of eukaryotes. Moreover, histone equivalents and a simplified chromatin structure have also been found in single-cell organisms from the kingdom Archaeabacteria . Because there is more DNA in a eukaryote than in a prokaryote, it was naturally first assumed that the purpose of histones was to compress the DNA to fit within the nucleus. But subsequent research has dramatically revised the view that histones emerged as an afterthought, forced on eukaryotic DNA as a consequence of large genome size and the constraints of the nucleus. It was known that different genes are active in different tissues, and the distinction of heterochromatin and euchromatin suggested that differences in chromatin structure were associated with differences in gene expression. This led to the early supposition that the histones were also repressor proteins designed to shut off unwanted expression. The available evidence, although rudimenta- ry, does indeed suggest that archaeal histones are not merely packaging factors, but function to regulate gene expression . They",
         "style": {
             "font": "Minion-Regular",
             "size": 8.835000038146973,
@@ -1397,25 +1350,24 @@
         },
         "flag": "text",
         "id": 99,
-        "summery": "archaeal histones function to regulate gene expression.",
+        "summery": "archaeal histones are found to regulate gene expression.",
         "parts": [
-            "The principal protein components of chromatin are proteins calledhistones (Fig 1).",
-            " Core histones are among the most highly conservedeukaryotic proteins known, suggesting that the fundamental struc-ture of chromatin evolved in a common ancestor of eukaryotes.",
-            "Moreover, histone equivalents and a simplified chromatin structurehave also been found in single-cell organisms from the kingdomArchaeabacteria.",
-            "Because there is more DNA in a eukaryote than in a prokaryote, itwas naturally first assumed that the purpose of histones was to compress the DNA to fit within the nucleus.",
-            " But subsequent researchhas dramatically revised the view that histones emerged as an afterthought, forced on eukaryotic DNA as a consequence of largegenome size and the constraints of the nucleus.",
-            "It was known that different genes are active in different tissues,and the distinction of heterochromatin and euchromatin suggestedthat differences in chromatin structure were associated with differences in gene expression.",
-            " This led to the early supposition thatthe histones were also repressor proteins designed to shut offunwanted expression.",
-            " The available evidence, although rudimenta-ry, does indeed suggest that archaeal histones are not merely packaging factors, but function to regulate gene expression.",
+            "The principal protein components of chromatin are proteins called histones (Fig 1).",
+            " Core histones are among the most highly conserved eukaryotic proteins known, suggesting that the fundamental struc- ture of chromatin evolved in a common ancestor of eukaryotes.",
+            " Moreover, histone equivalents and a simplified chromatin structure have also been found in single-cell organisms from the kingdom Archaeabacteria .",
+            " Because there is more DNA in a eukaryote than in a prokaryote, it was naturally first assumed that the purpose of histones was to compress the DNA to fit within the nucleus.",
+            " But subsequent research has dramatically revised the view that histones emerged as an afterthought, forced on eukaryotic DNA as a consequence of large genome size and the constraints of the nucleus.",
+            " It was known that different genes are active in different tissues, and the distinction of heterochromatin and euchromatin suggested that differences in chromatin structure were associated with differences in gene expression.",
+            " This led to the early supposition that the histones were also repressor proteins designed to shut off unwanted expression.",
+            " The available evidence, although rudimenta- ry, does indeed suggest that archaeal histones are not merely packaging factors, but function to regulate gene expression .",
             " They."
         ],
         "summery_parts": [
-            "archaeal histones function to regulate gene expression.",
-            "."
+            "archaeal histones are found to regulate gene expression."
         ]
     },
     {
-        "text": " 2003 Nature Publishing Group2003 Nature Publishing Group",
+        "text": " 2003 Nature Publishing Group 2003 Nature Publishing Group",
         "style": {
             "font": "Helvetica",
             "size": 7.0,
